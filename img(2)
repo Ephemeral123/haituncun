@@ -1,0 +1,2407 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh" lang="zh">
+<head>
+<title>【海豚村】海外电商直购平台_海外直邮_海淘_海淘网-海豚村海外直邮购物网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link rel="dns-prefetch" href="http://assets.haituncun.com">
+<meta name="description" content="海豚村是国内首家以海外电商入驻的形式面对消费者的海外直购平台。致力于打造一个货源透明、价格同步海外官网、海外电商直接发货到家的购物环境。主营产品包括母婴、美妆、保健品、日用品，数码产品等八大品类。为消费者提供一站式中文操作、支付宝银联便捷支付的购物体验。遇见海豚村，把世界带回家！"/>
+<meta name="keywords" content="海豚村,海淘,海淘网,购物,直邮,购物网,购物网站,海外直邮"/>
+<meta name="robots" content="INDEX,FOLLOW"/>
+<meta name="Designer" content="WebExperiment Magento templates - http://web-experiment.info"/>
+<meta http-equiv="Cache-Control" content="no-cache,no-store,must-revalidate"/>
+<meta http-equiv="pragma" content="no-cache"/>
+<meta http-equiv="expires" content="Expires: Mon, 26 Jul 1997 05:00:00 GMT"/>
+<meta name="renderer" content="webkit|ie-comp|ie-stand">
+<link rel="icon" href="http://assets.haituncun.com/skin/frontend/PlumTree/default/favicon.ico" type="image/x-icon"/>
+<link rel="shortcut icon" href="http://assets.haituncun.com/skin/frontend/PlumTree/default/favicon.ico" type="image/x-icon"/>
+<script type="text/javascript" src="http://assets.haituncun.com/skin/frontend/PlumTree/default/js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript">
+    //<![CDATA[
+    var BLANK_URL = 'http://www.haituncun.com/js/blank.html';
+    var BLANK_IMG = 'http://www.haituncun.com/js/spacer.gif';
+    var SKIN_URL = 'http://assets.haituncun.com/skin/frontend/PlumTree/default/';
+    var ROOT_URL = 'http://www.haituncun.com/';
+    var INT_FIXED_LENGTH = 2;
+    var NEWCARTURL = 'http://www.haituncun.com';
+
+    //old baidu ad statistics
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "//hm.baidu.com/hm.js?3524d4aae6c6bdd413f5ebdf8d399ddb";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+    //]]>
+</script>
+
+<link rel="stylesheet" type="text/css" href="http://assets.haituncun.com/skin/frontend/PlumTree/default/css/newindex.css?v=2162" media="all" />
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["IE","PA","MO","HK"];
+//]]>
+</script>
+<script type="text/javascript">
+    window.SagetCookie = function(name){
+        var reg=new RegExp("(^| )"+name+"=([^;]*)(;|$)"),
+            arr=document.cookie.match(reg);
+        return arr ? unescape(arr[2]) : null;
+    } 
+
+    window.PUBLIC_ATTRIBUTES = {};
+
+    PUBLIC_ATTRIBUTES.platformId = (function(){var isPc = (function() {var userAgentInfo = navigator.userAgent; Agents = ["Android", "iPhone", "SymbianOS", "Windows Phone", "iPad", "iPod"], flag = true; for(var v = 0; v < Agents.length; v++) {if(userAgentInfo.indexOf(Agents[v]) > 0) {flag = false; break; } } return flag; })(); var isWx = (function() {var ua = window.navigator.userAgent.toLowerCase(); return ua.match(/MicroMessenger/i) == 'micromessenger'})(); return isPc ? 1 : isWx ? 5 :2; })();
+
+    PUBLIC_ATTRIBUTES.getReferrerHost=(function(){function _t(){return new RegExp(/(.*?)\.?([^\.]*?)\.?(com|net|org|biz|ws|in|me|co\.uk|co|org\.uk|ltd\.uk|plc\.uk|me\.uk|edu|mil|br\.com|cn\.com|eu\.com|hu\.com|no\.com|qc\.com|sa\.com|se\.com|se\.net|us\.com|uy\.com|ac|co\.ac|gv\.ac|or\.ac|ac\.ac|af|am|as|at|ac\.at|co\.at|gv\.at|or\.at|asn\.au|com\.au|edu\.au|org\.au|net\.au|id\.au|be|ac\.be|adm\.br|adv\.br|am\.br|arq\.br|art\.br|bio\.br|cng\.br|cnt\.br|com\.br|ecn\.br|eng\.br|esp\.br|etc\.br|eti\.br|fm\.br|fot\.br|fst\.br|g12\.br|gov\.br|ind\.br|inf\.br|jor\.br|lel\.br|med\.br|mil\.br|net\.br|nom\.br|ntr\.br|odo\.br|org\.br|ppg\.br|pro\.br|psc\.br|psi\.br|rec\.br|slg\.br|tmp\.br|tur\.br|tv\.br|vet\.br|zlg\.br|br|ab\.ca|bc\.ca|mb\.ca|nb\.ca|nf\.ca|ns\.ca|nt\.ca|on\.ca|pe\.ca|qc\.ca|sk\.ca|yk\.ca|ca|cc|ac\.cn|com\.cn|edu\.cn|gov\.cn|org\.cn|bj\.cn|sh\.cn|tj\.cn|cq\.cn|he\.cn|nm\.cn|ln\.cn|jl\.cn|hl\.cn|js\.cn|zj\.cn|ah\.cn|gd\.cn|gx\.cn|hi\.cn|sc\.cn|gz\.cn|yn\.cn|xz\.cn|sn\.cn|gs\.cn|qh\.cn|nx\.cn|xj\.cn|tw\.cn|hk\.cn|mo\.cn|cn|cx|cz|de|dk|fo|com\.ec|tm\.fr|com\.fr|asso\.fr|presse\.fr|fr|gf|gs|co\.il|net\.il|ac\.il|k12\.il|gov\.il|muni\.il|ac\.in|co\.in|org\.in|ernet\.in|gov\.in|net\.in|res\.in|is|it|ac\.jp|co\.jp|go\.jp|or\.jp|ne\.jp|ac\.kr|co\.kr|go\.kr|ne\.kr|nm\.kr|or\.kr|li|lt|lu|asso\.mc|tm\.mc|com\.mm|org\.mm|net\.mm|edu\.mm|gov\.mm|ms|nl|no|nu|pl|ro|org\.ro|store\.ro|tm\.ro|firm\.ro|www\.ro|arts\.ro|rec\.ro|info\.ro|nom\.ro|nt\.ro|se|si|com\.sg|org\.sg|net\.sg|gov\.sg|sk|st|tf|ac\.th|co\.th|go\.th|mi\.th|net\.th|or\.th|tm|to|com\.tr|edu\.tr|gov\.tr|k12\.tr|net\.tr|org\.tr|com\.tw|org\.tw|net\.tw|ac\.uk|uk\.com|uk\.net|gb\.com|gb\.net|vg|sh|kz|ch|info|ua|gov|name|pro|ie|hk|com\.hk|org\.hk|net\.hk|edu\.hk|us|tk|cd|by|ad|lv|eu\.lv|bz|es|jp|cl|ag|mobi|eu|co\.nz|org\.nz|net\.nz|maori\.nz|iwi\.nz|io|la|md|sc|sg|vc|tw|travel|my|se|tv|pt|com\.pt|edu\.pt|asia|fi|com\.ve|net\.ve|fi|org\.ve|web\.ve|info\.ve|co\.ve|tel|im|gr|ru|net\.ru|org\.ru|hr|com\.hr|ly|xyz)$/)}function _d(s){var result='';try{result=decodeURIComponent(s.replace(/\+/g,' '))}catch(e){result=s.replace(/\+/g,' ')};return result}function _i(arg,str){var sptr=arg.charAt(0),split=str.split(sptr);if(sptr===arg){return split}arg=parseInt(arg.substring(1),10);return split[arg<0?split.length+arg:arg-1]}function _f(arg,str){var sptr=arg.charAt(0),split=str.split('&'),field=[],params={},tmp=[],arg2=arg.substring(1);for(var i=0,ii=split.length;i<ii;i++){field=split[i].match(/(.*?)=(.*)/);if(!field){field=[split[i],split[i],'']}if(field[1].replace(/\s/g,'')!==''){field[2]=_d(field[2]||'');if(arg2===field[1]){return field[2]}tmp=field[1].match(/(.*)\[([0-9]+)\]/);if(tmp){params[tmp[1]]=params[tmp[1]]||[];params[tmp[1]][tmp[2]]=field[2]}else{params[field[1]]=field[2]}}}if(sptr===arg){return params}return params[arg2]}return function(arg,url){var _l={},tmp,tmp2;if(arg==='tld?'){return _t()}url=url||window.location.toString();if(!arg){return url}arg=arg.toString();if(tmp=url.match(/^mailto:([^\/].+)/)){_l.protocol='mailto';_l.email=tmp[1]}else{if(tmp=url.match(/(.*?)\/#\!(.*)/)){url=tmp[1]+tmp[2]}if(tmp=url.match(/(.*?)#(.*)/)){_l.hash=tmp[2];url=tmp[1]}if(_l.hash&&arg.match(/^#/)){return _f(arg,_l.hash)}if(tmp=url.match(/(.*?)\?(.*)/)){_l.query=tmp[2];url=tmp[1]}if(_l.query&&arg.match(/^\?/)){return _f(arg,_l.query)}if(tmp=url.match(/(.*?)\:?\/\/(.*)/)){_l.protocol=tmp[1].toLowerCase();url=tmp[2]}if(tmp=url.match(/(.*?)(\/.*)/)){_l.path=tmp[2];url=tmp[1]}_l.path=(_l.path||'').replace(/^([^\/])/,'/$1').replace(/\/$/,'');if(arg.match(/^[\-0-9]+$/)){arg=arg.replace(/^([^\/])/,'/$1')}if(arg.match(/^\//)){return _i(arg,_l.path.substring(1))}tmp=_i('/-1',_l.path.substring(1));if(tmp&&(tmp=tmp.match(/(.*?)\.(.*)/))){_l.file=tmp[0];_l.filename=tmp[1];_l.fileext=tmp[2]}if(tmp=url.match(/(.*)\:([0-9]+)$/)){_l.port=tmp[2];url=tmp[1]}if(tmp=url.match(/(.*?)@(.*)/)){_l.auth=tmp[1];url=tmp[2]}if(_l.auth){tmp=_l.auth.match(/(.*)\:(.*)/);_l.user=tmp?tmp[1]:_l.auth;_l.pass=tmp?tmp[2]:undefined}_l.hostname=url.toLowerCase();if(arg.charAt(0)==='.'){return _i(arg,_l.hostname)}if(_t()){tmp=_l.hostname.match(_t());if(tmp){_l.tld=tmp[3];_l.domain=tmp[2]?tmp[2]+'.'+tmp[3]:undefined;_l.sub=tmp[1]||undefined}}_l.port=_l.port||(_l.protocol==='https'?'443':'80');_l.protocol=_l.protocol||(_l.port==='443'?'https':'http')}if(arg in _l){return _l[arg]}if(arg==='{}'){return _l}return undefined}})();
+
+    PUBLIC_ATTRIBUTES.$referrer=(function(){
+         var referrer = document.referrer;
+         if(referrer.indexOf("https://www.baidu.com/") === 0){
+            referrer =  referrer.split('?')[0];
+         }
+         return (typeof referrer === 'string' ? referrer : '' );
+    }())
+
+    PUBLIC_ATTRIBUTES.$referrer_host=(function(){
+        var p=PUBLIC_ATTRIBUTES;
+         return p.$referrer ? p.getReferrerHost('hostname',p.$referrer) : p.$referrer;
+    }())
+
+</script>
+<script type="text/javascript">
+    var sa_enabled = true;
+    /*Sensors Analytics JS SDK*/
+    (function(para) {
+        var p = para.sdk_url, n = para.name, w = window, d = document, s = 'script',x = null,y = null;
+        w['sensorsDataAnalytic201505'] = n;
+        w[n] = w[n] || function(a) {return function() {(w[n]._q = w[n]._q || []).push([a, arguments]);}};
+        var ifs = ['track','quick','register','registerPage','registerOnce','registerSession','registerSessionOnce','trackSignup', 'trackAbtest', 'setProfile','setOnceProfile','appendProfile', 'incrementProfile', 'deleteProfile', 'unsetProfile', 'identify','login'];
+        for (var i = 0; i < ifs.length; i++) {
+            w[n][ifs[i]] = w[n].call(null, ifs[i]);
+        }
+        if (!w[n]._t) {
+            x = d.createElement(s), y = d.getElementsByTagName(s)[0];
+            x.async = 1;
+            x.src = p;
+            y.parentNode.insertBefore(x, y);
+            w[n]._t = 1 * new Date();
+            w[n].para = para;
+        }
+    })({
+        sdk_url: 'http://www.haituncun.com/js/sensorsanalytics/sensorsdata.min.js',
+        name: 'da_sensorsdata',
+        server_url:'https://report.azoyagroup.com/?app_id=bmYWJlZGM0&sign=bcf5b19e9bcfa6b19a5703cb62c643eb'
+    });
+
+    da_sensorsdata.quick('allTrack');
+
+    ~(function(){
+        
+        function objectAssign() {
+            if(arguments.length > 0) {
+                var newObj = {};
+                for(var i = 0; i < arguments.length; i++) {
+                    if(Object.prototype.toString.call(arguments[i]) !== '[object Object]') {
+                        console.warn("Parameter must be object");
+                        return;
+                    }
+                    var source = arguments[i];
+                    for(var key in source) {
+                        if(Object.prototype.hasOwnProperty.call(source, key)) {
+                            newObj[key] = source[key];
+                        }
+                    }
+                }
+                return newObj;
+            } else {
+                console.warn("Parameter cannot be null");
+                return;
+            }
+        }
+
+        // 公共属性
+        var sa_common_properties = {"login_user_id":"","website_id":1,"i_tag_page":"30002","i_tag_region":"1","i_tag_hyperlink":"","w_tag_page":"","w_tag_region":"","w_tag_hyperlink":"","promotion_source":"","platform_id":1,"level_1_page_type_id":"4","level_2_page_type_id":""},
+            loginUserId =  SagetCookie("SA_CUSTOMER_INFO"),
+            saLoginId = SagetCookie("SA_CUSTOMER_ID"),
+            itag = SagetCookie("_itag") || "",
+            arrayOfitag = itag.split("." , 3),
+            wtag = SagetCookie("_wtag") || "",
+            arrayOfwtag = wtag.split("." , 3),
+            platformId = (function(){var isPc = (function() {var userAgentInfo = navigator.userAgent; Agents = ["Android", "iPhone", "SymbianOS", "Windows Phone", "iPad", "iPod"], flag = true; for(var v = 0; v < Agents.length; v++) {if(userAgentInfo.indexOf(Agents[v]) > 0) {flag = false; break; } } return flag; })(); var isWx = (function() {var ua = window.navigator.userAgent.toLowerCase(); return ua.match(/MicroMessenger/i) == 'micromessenger'})(); return isPc ? 1 : isWx ? 5 :2; })();
+            
+        sa_common_properties = objectAssign(sa_common_properties,{
+            $referrer : PUBLIC_ATTRIBUTES.$referrer,
+            $referrer_host : PUBLIC_ATTRIBUTES.$referrer_host,
+            $url:location.href,
+            $url_path : location.pathname,
+            $title : document.title,
+            i_tag_page : arrayOfitag[0] || "",
+            i_tag_region : arrayOfitag[1] || "",
+            i_tag_hyperlink : arrayOfitag[2] ||"",
+            w_tag_page : arrayOfwtag[0] || "",
+            w_tag_region : arrayOfwtag[1] || "",
+            w_tag_hyperlink : arrayOfwtag[2] ||"",
+            login_user_id : loginUserId || "",
+            platform_id : platformId || ""
+        });
+        
+        da_sensorsdata.registerPage(sa_common_properties);
+        da_sensorsdata.quick('autoTrack',sa_common_properties);
+        if(saLoginId){da_sensorsdata.login(saLoginId);}  
+    })()
+
+</script>
+<meta name="google-site-verification" content="RqbjumRZK339TH_WASyy--4SfjRT5Wx-T0W7IQfjPdI" />
+<meta name="pinggu-site-verification" content="2dbc301b78d45bfe6a51acc3815d5aa6" />
+<meta property="qc:admins" content="117730766760114563566375" />
+<meta name="baidu-site-verification" content="DOT5dRAW0b" /></head>
+<body class=" cms-page-view cms-newhome">
+<div class="wrapper">
+        <noscript>
+        <div class="noscript">
+            <div class="noscript-inner">
+                <p><strong>JavaScript seem to be disabled in your browser.</strong></p>
+
+                <p>您必须在浏览器中启用JavaScript才能使用本网站的功能。</p>
+            </div>
+        </div>
+    </noscript>
+<p class="em-notice dib-wrap" style="height: 40px; background: #fff;">
+<a style="display: block; width: 100%; height: 100%;" href="" target="_blank"></a></p>
+
+    <div class="page">
+        <script type="text/javascript">
+    //<![CDATA[
+    //jQuery.noConflict();
+    //]]>
+</script>
+<div class="header-container">
+    <div class="topbar">
+        <div style="display:none" class="grid-all clearfix header-topbar-info">
+            <p class="left ykg">
+                您好，<span id="customerName"></span> 欢迎来到海豚村
+                                <a href="http://www.haituncun.com/new/helper/disptching/" target="_blank" style="margin-left: 10px; padding-left: 18px; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAMAAABFNRROAAAARVBMVEUAAAD/igD/igD/igD/igD/igD/igD/igD/igD/igD/igD/igD/igD/igD/igD/igD/igD/igD/igD/igD/igD/igD/igC+UfpBAAAAFnRSTlMA9s0xVTgK38fDpm9TP+/Zr5GQZ1gQBwgNDwAAAFJJREFUCNdtzdsKgCAQhOFfTS2zc+37P2qSYgbNzfLBMsNPrrWB8QI2ZoxKkozeYZAngNMdUhROpr7KzqCqjGrlj/T5bXkXrN7K+pLURUpcyPcGzDAFUzDcRLsAAAAASUVORK5CYII=) left 0 no-repeat; color: #ff8a00; text-decoration: none;">
+                    关于青岛物流影响通知                </a>
+                            </p>
+
+            <div class="right q-access">
+                <ul>
+                                        <li class="login-link logout">
+                        <a href="http://www.haituncun.com/customer/account/login/referer/aHR0cDovL3d3dy5oYWl0dW5jdW4uY29tL211eWluL3dlaXl5cDEvMTAwOTE4MS8,/">
+                            登录                        </a>
+                    </li>
+                    <li class="topbar-sep logout">|</li>
+                    <li class="reg-link logout">
+                        <a href="http://www.haituncun.com/customer/account/create/">
+                            注册                        </a>
+                    </li>
+                    <li class="my-order-list login">
+                        <a href="http://www.haituncun.com/sales/order/history/">
+                            我的订单                        </a>
+                    </li>
+                    <li class="topbar-sep login">|</li>
+                    <li class="user-center login">
+                        <a class="tri" href="http://www.haituncun.com/customer/account/">
+                            用户中心                        </a>
+                        <ul class="ddmenu">
+                            <li class="top-item">
+                                <a href="http://www.haituncun.com/customer/account/">
+                                    用户中心                                </a>
+                            </li>
+                            <li class="item">
+                                <a href="http://www.haituncun.com/customer/account/">
+                                    个人信息                                </a>
+                            </li>
+                            <li class="item coin">
+                                <a href="http://www.haituncun.com/rewardpoints/index/points/">
+                                    海豚币                                </a>
+                            </li>
+                            <li class="item">
+                                <a href="http://www.haituncun.com/customer/account/coupon/">
+                                    优惠券                                </a>
+                            </li>
+                            <li class="item">
+                                <a href="http://www.haituncun.com/customer/account/logout/">
+                                    退出登录                                </a>
+                            </li>                           
+                        </ul>
+                    </li>
+                    <li class="topbar-sep">|</li>
+                    <li class="mobile"><a href="javascript:void(0);">手机版<div class="top-appcode"></div></a></li>
+                    <li class="topbar-sep">|</li>
+                    <li class="weibo"><a href="http://weibo.com/haituncun" target="_blank">关注</a></li>
+                    <li class="topbar-sep">|</li>
+                    <li class="livesvc"><a href="javascript:void(0)" class="js-customer-service">在线客服</a></li>
+                    <li class="topbar-sep">|</li>
+                    <li class="livesvc"><a  href="/new/helper/notification">消费者告知书</a></li>
+                
+                </ul>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+    </script>
+    <div class="header">
+        <div class="grid-all clearfix">
+                            <div class="left">
+                    <a class="logo" href="http://www.haituncun.com/" style="background: url(http://assets.haituncun.com/skin/frontend/PlumTree/default/images/newindex/logo.png) center top no-repeat">海豚村海淘网站---海外直邮购物</a>
+                </div>
+                        <a class="svc-cmt" title="服务承诺" href="http://www.haituncun.com/helper/faq/service-commitment/"
+               target="_blank">服务承诺</a>
+            <form id="search_mini_form" class="auto-search" action="http://www.haituncun.com/catalogsearch/result/" method="get">
+    <div class="left head-search">
+        <input id="search" type="text" name="q"
+               value="" class="text-input"
+             autocomplete="off" disableautocomplete
+            />
+
+        <input type="submit" title="搜索" class="btn-submit"
+               value="搜索" />
+        <div id="search_autocomplete" class="search-autocomplete"></div>
+        <script type="text/javascript">
+        //<![CDATA[
+<!--        	var searchForm = new Varien.searchForm('search_mini_form','search','--><!--');-->
+<!--        	searchForm.initAutocomplete('--><!--','search_autocomplete'); -->
+        //]]>
+        var _searchBox = [{"text": "搜“Whoo”试试   体验顶级奢华护肤","real": "Whoo"},{"text": "搜“Swisse”试试  美容保健做你的360安全卫士","real": "Swisse"},{"text": "搜“面膜”试试，新品上线，快来拔草","real": "面膜"}],
+            _index = Math.abs(Math.ceil(Math.random()*_searchBox.length-1)),
+            searchKey = _searchBox[_index] || '';
+        </script>
+    </div>
+</form>
+            <div class="right user-entry noLogin">
+    <ul>
+                                <li class="item-cart">
+            <a href="http://www.haituncun.com/cart/index" onclick="window.location.href=this.href+'?_='+jQuery.now();return false;">购物车<b
+                    id="cartCount"></b></a>
+        </li>
+    </ul>
+</div>        </div>
+    </div>
+    <div class="navigation">
+    <div class="grid-all clearfix">
+        <style type="text/css">
+    .navigation .parent.ytzhwj_p:hover .hidepop{
+        display: none;
+    }
+</style>
+<div class="left kind-drop">
+    <h3><i class="icon icon-list"></i>全部商品分类</h3>
+    <ul class="s-menu" id="s_menu">
+
+        
+        
+            
+            <li class="parent ymuyin_p">
+
+                <div class='p-menu '>
+                    <h2 class="ymuyin">
+                        <i class="icon icon-ymuyin"></i>
+                        <a href="http://www.haituncun.com/ymuyin/">母婴用品</a>
+                    </h2>
+                    <ul class="child clearfix dib-wrap">
+                                                                            <li class="dib">
+                                <a href="http://www.haituncun.com/ymuyin/ynaiffs/ypeifnf/">配方奶粉</a>
+                            </li>
+                                                    <li class="dib">
+                                <a href="http://www.haituncun.com/ymuyin/ynaiffs/yguoniz/">营养辅食</a>
+                            </li>
+                                                    <li class="dib">
+                                <a href="http://www.haituncun.com/ymuyin/yxihuyp/">洗护用品</a>
+                            </li>
+                                            </ul>
+                </div>
+
+                                    <div class='hidepop hidepop-top'>
+                                                <div class="submenu-list">
+
+                            <div class="submenu-itemwrap clearfix"><dl class="submenu-item"><dt><a class="sub-link" href="http://www.haituncun.com/ymuyin/ynaiffs/">奶粉辅食</a></dt><dd class="clearfix"><a href="http://www.haituncun.com/ymuyin/ynaiffs/ypeifnf/"class="submenu-link" target="_blank">配方奶粉</a><a href="http://www.haituncun.com/ymuyin/ynaiffs/yteshunf/"class="submenu-link" target="_blank">特殊奶粉</a><a href="http://www.haituncun.com/ymuyin/ynaiffs/yyangnf/"class="submenu-link" target="_blank">羊奶粉</a><a href="http://www.haituncun.com/ymuyin/ynaiffs/ymicaif/"class="submenu-link" target="_blank">米粉/菜粉</a><a href="http://www.haituncun.com/ymuyin/ynaiffs/yguoniz/"class="submenu-link" target="_blank">果泥/果汁</a><a href="http://www.haituncun.com/ymuyin/ynaiffs/ycairni/"class="submenu-link" target="_blank">菜泥/肉泥</a><a href="http://www.haituncun.com/ymuyin/ynaiffs/ymiantz/"class="submenu-link" target="_blank">面条/粥</a><a href="http://www.haituncun.com/ymuyin/ynaiffs/ytongxf/"class="submenu-link" target="_blank">通心粉</a><a href="http://www.haituncun.com/ymuyin/ynaiffs/ybbls/"class="submenu-link" target="_blank">宝宝零食</a></dd></dl><dl class="submenu-item"><dt><a class="sub-link" href="http://www.haituncun.com/ymuyin/yweiyyp1/">喂养用品</a></dt><dd class="clearfix"><a href="http://www.haituncun.com/ymuyin/yweiyyp1/ynaip/"class="submenu-link" target="_blank">奶瓶奶嘴</a><a href="http://www.haituncun.com/ymuyin/yweiyyp1/yxinaicn/"class="submenu-link" target="_blank">吸奶/储奶器</a><a href="http://www.haituncun.com/ymuyin/yweiyyp1/yanfu/"class="submenu-link" target="_blank">安抚用品</a><a href="http://www.haituncun.com/ymuyin/yweiyyp1/yshuihub/"class="submenu-link" target="_blank">水壶水杯</a><a href="http://www.haituncun.com/ymuyin/yweiyyp1/ywanpcs/"class="submenu-link" target="_blank">碗盘叉勺</a><a href="http://www.haituncun.com/ymuyin/yweiyyp1/yweidou/"class="submenu-link" target="_blank">围兜</a><a href="http://www.haituncun.com/ymuyin/yweiyyp1/ywsxd/"class="submenu-link" target="_blank">卫生消毒</a><a href="http://www.haituncun.com/ymuyin/yweiyyp1/ymoyabg/"class="submenu-link" target="_blank">磨牙饼干</a><a href="http://www.haituncun.com/ymuyin/yweiyyp1/yfyrd/"class="submenu-link" target="_blank">乳垫</a></dd></dl></div><div class="submenu-itemwrap clearfix"><dl class="submenu-item"><dt><a class="sub-link" href="http://www.haituncun.com/ymuyin/yxihuyp/">洗护用品</a></dt><dd class="clearfix"><a href="http://www.haituncun.com/ymuyin/yxihuyp/yerwq/"class="submenu-link" target="_blank">耳温枪</a><a href="http://www.haituncun.com/ymuyin/yxihuyp/ybbxiyu/"class="submenu-link" target="_blank">宝宝洗浴</a><a href="http://www.haituncun.com/ymuyin/yxihuyp/ybbhf/"class="submenu-link" target="_blank">宝宝护肤</a><a href="http://www.haituncun.com/ymuyin/yxihuyp/ybbshu/"class="submenu-link" target="_blank">宝宝梳子</a></dd></dl><dl class="submenu-item"><dt><a class="sub-link" href="http://www.haituncun.com/ymuyin/ymamazq/">妈妈专区</a></dt><dd class="clearfix"><a href="http://www.haituncun.com/ymuyin/ymamazq/ybeiyunyy/"class="submenu-link" target="_blank">备孕营养</a><a href="http://www.haituncun.com/ymuyin/ymamazq/yyunqiyy/"class="submenu-link" target="_blank">孕期营养</a><a href="http://www.haituncun.com/ymuyin/ymamazq/ychhhuif/"class="submenu-link" target="_blank">产后恢复</a><a href="http://www.haituncun.com/ymuyin/ymamazq/ymamayy/"class="submenu-link" target="_blank">妈妈营养</a><a href="http://www.haituncun.com/ymuyin/ymamazq/yyunmeir/"class="submenu-link" target="_blank">孕妈美容</a></dd></dl></div><div class="submenu-itemwrap clearfix"><dl class="submenu-item"><dt><a class="sub-link" href="http://www.haituncun.com/ymuyin/yyinyyy/">婴幼营养</a></dt><dd class="clearfix"><a href="http://www.haituncun.com/ymuyin/yyinyyy/ydha/"class="submenu-link" target="_blank">DHA/鱼油</a><a href="http://www.haituncun.com/ymuyin/yyinyyy/yweitakw/"class="submenu-link" target="_blank">维他命/矿物质</a><a href="http://www.haituncun.com/ymuyin/yyinyyy/yniuchu/"class="submenu-link" target="_blank">牛初乳</a><a href="http://www.haituncun.com/ymuyin/yyinyyy/yrutangm/"class="submenu-link" target="_blank">乳糖酶</a></dd></dl><dl class="submenu-item"><dt><a class="sub-link" href="http://www.haituncun.com/ymuyin/yertwj/">儿童玩具</a></dt><dd class="clearfix"><a href="http://www.haituncun.com/ymuyin/yertwj/ymrwj/"class="submenu-link" target="_blank">毛绒玩具</a><a href="http://www.haituncun.com/ymuyin/yertwj/yqita/"class="submenu-link" target="_blank">其他</a></dd></dl></div><div class="submenu-itemwrap clearfix"><dl class="submenu-item"><dt><a class="sub-link" href="http://www.haituncun.com/ymuyin/ybbanquan/">宝宝安全</a></dt><dd class="clearfix"><a href="http://www.haituncun.com/ymuyin/ybbanquan/yanqjh/"class="submenu-link" target="_blank">安全监护</a></dd></dl><dl class="submenu-item"><dt><a class="sub-link" href="http://www.haituncun.com/ymuyin/ynksj/">尿裤湿巾</a></dt><dd class="clearfix"><a href="http://www.haituncun.com/ymuyin/ynksj/yzhiniaoku/"class="submenu-link" target="_blank">纸尿裤</a><a href="http://www.haituncun.com/ymuyin/ynksj/yshijin/"class="submenu-link" target="_blank">湿巾</a></dd></dl></div>
+                        </div>
+                         <div class="sub-side">
+    <a href="http://www.haituncun.com/ymuyin/" target="_blank" class="single"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Fenlei/muyin160513.jpg" width="160" height="180"> </a>
+        <div class="trademark">
+            <h3 class="trademark-title">
+                <i class="line-left"></i>
+                <i class="line-right"></i>
+                <span>热门品牌</span>
+            </h3>
+            <div class="trademark-list clearfix">
+                <a href="http://www.haituncun.com/ymuyin/f-brand1260.html" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/MYYP_01160513.jpg" width="74" height="42"></a>
+                <a href="http://www.haituncun.com/ymuyin/f-brand935.html" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/MYYP_02160513.jpg" width="74" height="42"></a>
+                <a href="http://www.haituncun.com/ymuyin/f-brand923.html" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/MYYP_03160513.jpg" width="74" height="42"></a>
+                <a href="http://www.haituncun.com/ymuyin/f-brand922.html" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/MYYP_04160513.jpg" height="42"></a>
+                <a href="http://www.haituncun.com/ymuyin/f-brand966.html" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/MYYP_05160513.jpg" height="42"></a>
+                <a href="http://www.haituncun.com/ymuyin/f-brand891.html" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/MYYP_06160513.jpg" width="74" height="42"></a>
+            </div>
+        </div>
+    </div>                                            </div>
+                            </li>
+        
+            
+            <li class="parent yyybaoj_p">
+
+                <div class='p-menu '>
+                    <h2 class="yyybaoj">
+                        <i class="icon icon-yyybaoj"></i>
+                        <a href="http://www.haituncun.com/yyybaoj/">营养保健</a>
+                    </h2>
+                    <ul class="child clearfix dib-wrap">
+                                                                            <li class="dib">
+                                <a href="http://www.haituncun.com/yyybaoj/yyyjk/yertyy/">儿童营养</a>
+                            </li>
+                                                    <li class="dib">
+                                <a href="http://www.haituncun.com/yyybaoj/f-brand980/">德国双心</a>
+                            </li>
+                                                    <li class="dib">
+                                <a href="http://www.haituncun.com/yyybaoj/yyyjk/ymeiryy/">美容养颜</a>
+                            </li>
+                                            </ul>
+                </div>
+
+                                    <div class='hidepop hidepop-top'>
+                                                <div class="submenu-list">
+
+                            <div class="submenu-itemwrap clearfix"><dl class="submenu-item"><dt><a class="sub-link" href="http://www.haituncun.com/yyybaoj/yyyjk/">营养健康</a></dt><dd class="clearfix"><a href="http://www.haituncun.com/yyybaoj/yyyjk/ytjiemy/"class="submenu-link" target="_blank">调节免疫</a><a href="http://www.haituncun.com/yyybaoj/yyyjk/ytiaoj3g/"class="submenu-link" target="_blank">调节三高</a><a href="http://www.haituncun.com/yyybaoj/yyyjk/ychwyh/"class="submenu-link" target="_blank">肠胃养护</a><a href="http://www.haituncun.com/yyybaoj/yyyjk/yhuanjpl/"class="submenu-link" target="_blank">缓解疲劳</a><a href="http://www.haituncun.com/yyybaoj/yyyjk/ymeiryy/"class="submenu-link" target="_blank">美容养颜</a><a href="http://www.haituncun.com/yyybaoj/yyyjk/yjianf/"class="submenu-link" target="_blank">减肥塑身</a><a href="http://www.haituncun.com/yyybaoj/yyyjk/yganshyh/"class="submenu-link" target="_blank">肝肾养护</a><a href="http://www.haituncun.com/yyybaoj/yyyjk/yshuim/"class="submenu-link" target="_blank">改善睡眠</a><a href="http://www.haituncun.com/yyybaoj/yyyjk/ygujk1/"class="submenu-link" target="_blank">骨骼健康</a><a href="http://www.haituncun.com/yyybaoj/yyyjk/ybuxie1/"class="submenu-link" target="_blank">补铁补血</a><a href="http://www.haituncun.com/yyybaoj/yyyjk/ymingmyz/"class="submenu-link" target="_blank">明目益智</a><a href="http://www.haituncun.com/yyybaoj/yyyjk/ykyhksl/"class="submenu-link" target="_blank">抗氧化/抗衰老</a><a href="http://www.haituncun.com/yyybaoj/yyyjk/yzhuangy/"class="submenu-link" target="_blank">强身壮阳</a><a href="http://www.haituncun.com/yyybaoj/yyyjk/yxinnbh/"class="submenu-link" target="_blank">心脑保护</a><a href="http://www.haituncun.com/yyybaoj/yyyjk/ynanvby/"class="submenu-link" target="_blank">男女备孕</a><a href="http://www.haituncun.com/yyybaoj/yyyjk/yertyy/"class="submenu-link" target="_blank">儿童营养</a><a href="http://www.haituncun.com/yyybaoj/yyyjk/yyunfuyy/"class="submenu-link" target="_blank">孕妇营养</a><a href="http://www.haituncun.com/yyybaoj/yyyjk/yyundyy/"class="submenu-link" target="_blank">运动营养</a><a href="http://www.haituncun.com/yyybaoj/yyyjk/wyztzy/"class="submenu-link" target="_blank">外用止痛消炎</a><a href="http://www.haituncun.com/yyybaoj/yyyjk/yyjkbqhl/"class="submenu-link" target="_blank">鼻腔护理</a><a href="http://www.haituncun.com/yyybaoj/yyyjk/yyjkhyas/"class="submenu-link" target="_blank">缓压安神</a><a href="http://www.haituncun.com/yyybaoj/yyyjk/yyjkmnd/"class="submenu-link" target="_blank">泌尿道健康</a><a href="http://www.haituncun.com/yyybaoj/yyyjk/yyjkjrsj/"class="submenu-link" target="_blank">肌肉神经保健</a></dd></dl><dl class="submenu-item"><dt><a class="sub-link" href="http://www.haituncun.com/yyybaoj/yyychfen/">营养成分</a></dt><dd class="clearfix"><a href="http://www.haituncun.com/yyybaoj/yyychfen/yweitakw1/"class="submenu-link" target="_blank">维他命/矿物质</a><a href="http://www.haituncun.com/yyybaoj/yyychfen/ydanbz/"class="submenu-link" target="_blank">蛋白质</a><a href="http://www.haituncun.com/yyybaoj/yyychfen/yshenhyy/"class="submenu-link" target="_blank">深海鱼油</a><a href="http://www.haituncun.com/yyybaoj/yyychfen/ybutaozi/"class="submenu-link" target="_blank">葡萄籽</a><a href="http://www.haituncun.com/yyybaoj/yyychfen/yfanqh/"class="submenu-link" target="_blank">番茄红素</a><a href="http://www.haituncun.com/yyybaoj/yyychfen/ylxcha/"class="submenu-link" target="_blank">螺旋藻</a><a href="http://www.haituncun.com/yyybaoj/yyychfen/yyesuan/"class="submenu-link" target="_blank">叶酸</a><a href="http://www.haituncun.com/yyybaoj/yyychfen/yfmq10/"class="submenu-link" target="_blank">辅酶Q10</a><a href="http://www.haituncun.com/yyybaoj/yyychfen/ymaka/"class="submenu-link" target="_blank">玛咖</a><a href="http://www.haituncun.com/yyybaoj/yyychfen/yfengmifj/"class="submenu-link" target="_blank">蜂蜜蜂胶</a><a href="http://www.haituncun.com/yyybaoj/yyychfen/yjydb/"class="submenu-link" target="_blank">胶原蛋白</a><a href="http://www.haituncun.com/yyybaoj/yyychfen/yddyhtllz/"class="submenu-link" target="_blank">大豆异黄酮/卵磷脂</a><a href="http://www.haituncun.com/yyybaoj/yyychfen/yssxianw/"class="submenu-link" target="_blank">膳食纤维</a><a href="http://www.haituncun.com/yyybaoj/yyychfen/yomega3/"class="submenu-link" target="_blank">Omega-3</a><a href="http://www.haituncun.com/yyybaoj/yyychfen/yniuchu1/"class="submenu-link" target="_blank">牛初乳</a><a href="http://www.haituncun.com/yyybaoj/yyychfen/yyuganyou/"class="submenu-link" target="_blank">鱼肝油</a><a href="http://www.haituncun.com/yyybaoj/yyychfen/yweigusu/"class="submenu-link" target="_blank">维骨素</a><a href="http://www.haituncun.com/yyybaoj/yyychfen/yboniaos/"class="submenu-link" target="_blank">玻尿酸</a><a href="http://www.haituncun.com/yyybaoj/yyychfen/yycfmym/"class="submenu-link" target="_blank">蔓越莓</a><a href="http://www.haituncun.com/yyybaoj/yyychfen/yycfjhs/"class="submenu-link" target="_blank">姜黄素</a></dd></dl></div><div class="submenu-itemwrap clearfix"><dl class="submenu-item"><dt><a class="sub-link" href="http://www.haituncun.com/yyybaoj/ybaojqx/">保健器械</a></dt><dd class="clearfix"><a href="http://www.haituncun.com/yyybaoj/ybaojqx/yxieyaji/"class="submenu-link" target="_blank">血压计</a><a href="http://www.haituncun.com/yyybaoj/ybaojqx/yxiety/"class="submenu-link" target="_blank">血糖仪</a><a href="http://www.haituncun.com/yyybaoj/ybaojqx/yzfxsq/"class="submenu-link" target="_blank">脂肪显示器</a><a href="http://www.haituncun.com/yyybaoj/ybaojqx/ytiwenji/"class="submenu-link" target="_blank">体温计</a><a href="http://www.haituncun.com/yyybaoj/ybaojqx/yhuliji/"class="submenu-link" target="_blank">护理机</a><a href="http://www.haituncun.com/yyybaoj/ybaojqx/ygtp/"class="submenu-link" target="_blank">药膏/贴片</a><a href="http://www.haituncun.com/yyybaoj/ybaojqx/kqhl/"class="submenu-link" target="_blank">口腔护理</a></dd></dl><dl class="submenu-item"><dt><a class="sub-link" href="http://www.haituncun.com/yyybaoj/yjijiu/">救急卫生</a></dt><dd class="clearfix"><a href="http://www.haituncun.com/yyybaoj/yjijiu/ycktbd/"class="submenu-link" target="_blank">创可贴/绷带</a><a href="http://www.haituncun.com/yyybaoj/yjijiu/ywenchong/"class="submenu-link" target="_blank">蚊虫叮咬</a><a href="http://www.haituncun.com/yyybaoj/yjijiu/ysunsxiuf/"class="submenu-link" target="_blank">损伤修复</a><a href="http://www.haituncun.com/yyybaoj/yjijiu/yjiatyx/"class="submenu-link" target="_blank">家庭药箱</a></dd></dl></div><div class="submenu-itemwrap clearfix"><dl class="submenu-item"><dt><a class="sub-link" href="http://www.haituncun.com/yyybaoj/yshiyrq/">适用人群</a></dt><dd class="clearfix"><a href="http://www.haituncun.com/yyybaoj/yshiyrq/yyinyer/"class="submenu-link" target="_blank">婴幼儿</a><a href="http://www.haituncun.com/yyybaoj/yshiyrq/yertong/"class="submenu-link" target="_blank">儿童</a><a href="http://www.haituncun.com/yyybaoj/yshiyrq/ycnnanx/"class="submenu-link" target="_blank">成年男性</a><a href="http://www.haituncun.com/yyybaoj/yshiyrq/ycnnvx/"class="submenu-link" target="_blank">成年女性</a><a href="http://www.haituncun.com/yyybaoj/yshiyrq/yyunfu/"class="submenu-link" target="_blank">孕妇</a><a href="http://www.haituncun.com/yyybaoj/yshiyrq/yzln/"class="submenu-link" target="_blank">中老年</a></dd></dl></div>
+                        </div>
+                         <div class="sub-side">
+    <a href="http://www.haituncun.com/yyybaoj/" target="_blank" class="single"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Fenlei/yinyang170314.jpg" width="160" height="180"> </a>
+        <div class="trademark">
+            <h3 class="trademark-title">
+                <i class="line-left"></i>
+                <i class="line-right"></i>
+                <span>热门品牌</span>
+            </h3>
+            <div class="trademark-list clearfix">
+                <a href="http://www.haituncun.com/yyybaoj/f-brand980/" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/YYBJ_01160513.jpg" width="74" height="42"></a>
+                <a href="http://www.haituncun.com/yyybaoj/f-brand1223.html" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/YYBJ_02160513.jpg" width="74" height="42"></a>
+                <a href="http://www.haituncun.com/yyybaoj/f-brand2954.html" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/YYBJ_03160513.jpg" width="74" height="42"></a>
+                <a href="http://www.haituncun.com/ycguojia/ycau/ycpo/f-brand1133/" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/YYBJ_04160513.jpg" height="42"></a>
+                <a href="http://www.haituncun.com/yyybaoj/f-brand1134/" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/YYBJ_05160513.jpg" height="42"></a>
+                <a href="http://www.haituncun.com/yyybaoj/f-brand1126.html" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/YYBJ_06160513.jpg" width="74" height="42"></a>
+            </div>
+        </div>
+    </div>                                            </div>
+                            </li>
+        
+            
+            <li class="parent ymeiryz_p">
+
+                <div class='p-menu '>
+                    <h2 class="ymeiryz">
+                        <i class="icon icon-ymeiryz"></i>
+                        <a href="http://www.haituncun.com/ymeiryz/">美容药妆</a>
+                    </h2>
+                    <ul class="child clearfix dib-wrap">
+                                                                            <li class="dib">
+                                <a href="http://www.haituncun.com/ymeiryz/ymianbhl/yxiezjm/">卸妆洁面</a>
+                            </li>
+                                                    <li class="dib">
+                                <a href="http://www.haituncun.com/ymeiryz/ymianbhl/ymians/f-p1/">补水保湿</a>
+                            </li>
+                                                    <li class="dib">
+                                <a href="http://www.haituncun.com/ymeiryz/ycaizh/">个人彩妆</a>
+                            </li>
+                                            </ul>
+                </div>
+
+                                    <div class='hidepop hidepop-top'>
+                                                <div class="submenu-list">
+
+                            <div class="submenu-itemwrap clearfix"><dl class="submenu-item"><dt><a class="sub-link" href="http://www.haituncun.com/ymeiryz/ymianbhl/">面部护理</a></dt><dd class="clearfix"><a href="http://www.haituncun.com/ymeiryz/ymianbhl/yxiezjm/"class="submenu-link" target="_blank">卸妆洁面</a><a href="http://www.haituncun.com/ymeiryz/ymianbhl/yqujzmos/"class="submenu-link" target="_blank">去角质/磨砂</a><a href="http://www.haituncun.com/ymeiryz/ymianbhl/ysfsbspw/"class="submenu-link" target="_blank">爽肤水/补水喷雾</a><a href="http://www.haituncun.com/ymeiryz/ymianbhl/yjinghua/"class="submenu-link" target="_blank">精华</a><a href="http://www.haituncun.com/ymeiryz/ymianbhl/yruyi/"class="submenu-link" target="_blank">乳液</a><a href="http://www.haituncun.com/ymeiryz/ymianbhl/ymians/"class="submenu-link" target="_blank">面霜</a><a href="http://www.haituncun.com/ymeiryz/ymianbhl/yyansh/"class="submenu-link" target="_blank">眼霜</a><a href="http://www.haituncun.com/ymeiryz/ymianbhl/yruncg/"class="submenu-link" target="_blank">润唇膏</a><a href="http://www.haituncun.com/ymeiryz/ymianbhl/ymianmo/"class="submenu-link" target="_blank">面膜</a><a href="http://www.haituncun.com/ymeiryz/ymianbhl/ykdxy/"class="submenu-link" target="_blank">抗痘消炎</a><a href="http://www.haituncun.com/ymeiryz/ymianbhl/yfsglbb/"class="submenu-link" target="_blank">防晒/隔离/BB霜</a><a href="http://www.haituncun.com/ymeiryz/ymianbhl/yhftzlh/"class="submenu-link" target="_blank">护肤套装/礼盒装</a></dd></dl><dl class="submenu-item"><dt><a class="sub-link" href="http://www.haituncun.com/ymeiryz/ycaizh/">个人彩妆</a></dt><dd class="clearfix"><a href="http://www.haituncun.com/ymeiryz/ycaizh/yzqru/"class="submenu-link" target="_blank">妆前乳</a><a href="http://www.haituncun.com/ymeiryz/ycaizh/yfendib/"class="submenu-link" target="_blank">粉底/粉饼</a><a href="http://www.haituncun.com/ymeiryz/ycaizh/ysanmif/"class="submenu-link" target="_blank">散粉/蜜粉</a><a href="http://www.haituncun.com/ymeiryz/ycaizh/yzhexiabb/"class="submenu-link" target="_blank">遮瑕膏/BB霜</a><a href="http://www.haituncun.com/ymeiryz/ycaizh/yyany/"class="submenu-link" target="_blank">眼影</a><a href="http://www.haituncun.com/ymeiryz/ycaizh/yyxbiye/"class="submenu-link" target="_blank">眼线笔/眼线液</a><a href="http://www.haituncun.com/ymeiryz/ycaizh/yjiemaog/"class="submenu-link" target="_blank">睫毛膏</a><a href="http://www.haituncun.com/ymeiryz/ycaizh/ychungmi/"class="submenu-link" target="_blank">唇膏/唇蜜</a><a href="http://www.haituncun.com/ymeiryz/ycaizh/ymeib/"class="submenu-link" target="_blank">眉笔/眉粉</a><a href="http://www.haituncun.com/ymeiryz/ycaizh/ymeizgj/"class="submenu-link" target="_blank">美妆小工具</a></dd></dl></div><div class="submenu-itemwrap clearfix"><dl class="submenu-item"><dt><a class="sub-link" href="http://www.haituncun.com/ymeiryz/yshentihl/">身体护理</a></dt><dd class="clearfix"><a href="http://www.haituncun.com/ymeiryz/yshentihl/yshentir/"class="submenu-link" target="_blank">身体乳/霜</a><a href="http://www.haituncun.com/ymeiryz/yshentihl/yshzuhl/"class="submenu-link" target="_blank">手/足护理</a><a href="http://www.haituncun.com/ymeiryz/yshentihl/yyhzz/"class="submenu-link" target="_blank">抑汗走珠</a><a href="http://www.haituncun.com/ymeiryz/yshentihl/yshentims/"class="submenu-link" target="_blank">身体磨砂</a><a href="http://www.haituncun.com/ymeiryz/yshentihl/yanmoy/"class="submenu-link" target="_blank">按摩油</a></dd></dl><dl class="submenu-item"><dt><a class="sub-link" href="http://www.haituncun.com/ymeiryz/ynanshl/">男士护理</a></dt><dd class="clearfix"><a href="http://www.haituncun.com/ymeiryz/ynanshl/ynansxiyu/"class="submenu-link" target="_blank">男士洗浴</a><a href="http://www.haituncun.com/ymeiryz/ynanshl/ynanshf/"class="submenu-link" target="_blank">男士护肤</a><a href="http://www.haituncun.com/ymeiryz/ynanshl/yzhihan/"class="submenu-link" target="_blank">止汗除味</a><a href="http://www.haituncun.com/ymeiryz/ynanshl/ytixuyp/"class="submenu-link" target="_blank">剃须用品</a></dd></dl></div>
+                        </div>
+                         <div class="sub-side">
+<a href="http://www.haituncun.com/ymeiryz/" target="_blank" class="single"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Fenlei/meizhuang170309.jpg" width="160" height="180"> </a>
+<div class="trademark">
+    <h3 class="trademark-title">
+        <i class="line-left"></i>
+        <i class="line-right"></i>
+        <span>热门品牌</span>
+    </h3>
+    <div class="trademark-list clearfix">
+        <a href="http://www.haituncun.com/ymeiryz/f-brand1743.html" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/MRYZ_01160513.jpg" width="74" height="42"></a>
+        <a href="http://www.haituncun.com/ymeiryz/f-brand3660.html" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/MRYZ_02160513.jpg" width="74" height="42"></a>
+        <a href="http://www.haituncun.com/ymeiryz/f-brand3774.html" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/MRYZ_03160513.jpg" width="74" height="42"></a>
+        <a href="http://www.haituncun.com/ymeiryz/f-brand1499.html" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/MRYZ_04160513.jpg" height="42"></a>
+        <a href="http://www.haituncun.com/ymeiryz/f-brand2943.html" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/MRYZ_05160513.jpg" height="42"></a>
+        <a href="http://www.haituncun.com/ymeiryz/f-brand1746.html" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/MRYZ_06160513.jpg" width="74" height="42"></a>
+    </div>
+</div>
+</div>                                            </div>
+                            </li>
+        
+            
+            <li class="parent yrybh_p">
+
+                <div class='p-menu '>
+                    <h2 class="yrybh">
+                        <i class="icon icon-yrybh"></i>
+                        <a href="http://www.haituncun.com/yrybh/">个人护理</a>
+                    </h2>
+                    <ul class="child clearfix dib-wrap">
+                                                                            <li class="dib">
+                                <a href="http://www.haituncun.com/yrybh/yxifahuf/">洗发护发</a>
+                            </li>
+                                                    <li class="dib">
+                                <a href="http://www.haituncun.com/yrybh/ymuyuyp/">沐浴用品</a>
+                            </li>
+                                                    <li class="dib">
+                                <a href="http://www.haituncun.com/yrybh/ykouqhl/yyagaof/">牙膏</a>
+                            </li>
+                                            </ul>
+                </div>
+
+                                    <div class='hidepop hidepop-top'>
+                                                <div class="submenu-list">
+
+                            <div class="submenu-itemwrap clearfix"><dl class="submenu-item"><dt><a class="sub-link" href="http://www.haituncun.com/yrybh/ymuyuyp/">沐浴用品</a></dt><dd class="clearfix"><a href="http://www.haituncun.com/yrybh/ymuyuyp/ymuyulu/"class="submenu-link" target="_blank">沐浴露</a><a href="http://www.haituncun.com/yrybh/ymuyuyp/ymuyuz/"class="submenu-link" target="_blank">沐浴皂</a><a href="http://www.haituncun.com/yrybh/ymuyuyp/yyuyan/"class="submenu-link" target="_blank">浴盐</a></dd></dl><dl class="submenu-item"><dt><a class="sub-link" href="http://www.haituncun.com/yrybh/yxifahuf/">洗发护发</a></dt><dd class="clearfix"><a href="http://www.haituncun.com/yrybh/yxifahuf/yxifash/"class="submenu-link" target="_blank">洗发水</a><a href="http://www.haituncun.com/yrybh/yxifahuf/yhufasu/"class="submenu-link" target="_blank">护发素</a><a href="http://www.haituncun.com/yrybh/yxifahuf/yfamo/"class="submenu-link" target="_blank">发膜</a><a href="http://www.haituncun.com/yrybh/yxifahuf/yjingy/"class="submenu-link" target="_blank">精油/护发膏</a><a href="http://www.haituncun.com/yrybh/yxifahuf/yzaoxing/"class="submenu-link" target="_blank">造型</a></dd></dl></div><div class="submenu-itemwrap clearfix"><dl class="submenu-item"><dt><a class="sub-link" href="http://www.haituncun.com/yrybh/ykouqhl/">口腔护理</a></dt><dd class="clearfix"><a href="http://www.haituncun.com/yrybh/ykouqhl/yyagaof/"class="submenu-link" target="_blank">牙膏/牙粉</a><a href="http://www.haituncun.com/yrybh/ykouqhl/yyaxiansh/"class="submenu-link" target="_blank">牙刷/牙线</a><a href="http://www.haituncun.com/yrybh/ykouqhl/yshuat/"class="submenu-link" target="_blank">刷头</a><a href="http://www.haituncun.com/yrybh/ykouqhl/ysks/"class="submenu-link" target="_blank">漱口水</a></dd></dl><dl class="submenu-item"><dt><a class="sub-link" href="http://www.haituncun.com/yrybh/ynvxyp/">女性用品</a></dt><dd class="clearfix"><a href="http://www.haituncun.com/yrybh/ynvxyp/ywsjin/"class="submenu-link" target="_blank">卫生巾</a><a href="http://www.haituncun.com/yrybh/ynvxyp/ywsmian/"class="submenu-link" target="_blank">卫生棉条</a><a href="http://www.haituncun.com/yrybh/ynvxyp/ywshudian/"class="submenu-link" target="_blank">卫生护垫</a><a href="http://www.haituncun.com/yrybh/ynvxyp/ysimiyej/"class="submenu-link" target="_blank">私密洗液/湿巾</a><a href="http://www.haituncun.com/yrybh/ynvxyp/ytuomao/"class="submenu-link" target="_blank">脱毛</a></dd></dl></div><div class="submenu-itemwrap clearfix"><dl class="submenu-item"><dt><a class="sub-link" href="http://www.haituncun.com/yrybh/yqingjie/">清洁用品</a></dt><dd class="clearfix"><a href="http://www.haituncun.com/yrybh/yqingjie/yquchong/"class="submenu-link" target="_blank">驱虫用品</a><a href="http://www.haituncun.com/yrybh/yqingjie/yxishouy/"class="submenu-link" target="_blank">洗手液</a></dd></dl></div>
+                        </div>
+                         <div class="sub-side">
+                                    <a href="http://www.haituncun.com/yrybh/" target="_blank" class="single"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Fenlei/gehu170314.jpg" width="160" height="180"> </a>
+                                        <div class="trademark">
+                                            <h3 class="trademark-title">
+                                                <i class="line-left"></i>
+                                                <i class="line-right"></i>
+                                                <span>热门品牌</span>
+                                            </h3>
+                                            <div class="trademark-list clearfix">
+                                                <a href="http://www.haituncun.com/yrybh/f-brand2213.html" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/GRHL_01160513.jpg" width="74" height="42"></a>
+                                                <a href="http://www.haituncun.com/yrybh/f-brand2950.html" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/GRHL_02160513.jpg" width="74" height="42"></a>
+                                                <a href="http://www.haituncun.com/yrybh/f-brand3427/" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/GRHL_03170314.jpg" width="74" height="42"></a>
+                                                <a href="http://www.haituncun.com/yrybh/f-brand4522/" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/GRHL_04170314.jpg" height="42"></a>
+                                                <a href="http://www.haituncun.com/yrybh/f-brand4481/" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/GRHL_05170314.jpg" height="42"></a>
+                                                <a href="http://www.haituncun.com/ymeiryz/f-brand897/" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/GRHL_06170314.jpg" width="74" height="42"></a>
+                                            </div>
+                                        </div>
+                                    </div>                                            </div>
+                            </li>
+        
+            
+            <li class="parent yjiajucw_p">
+
+                <div class='p-menu '>
+                    <h2 class="yjiajucw">
+                        <i class="icon icon-yjiajucw"></i>
+                        <a href="http://www.haituncun.com/yjiajucw/">家居厨卫</a>
+                    </h2>
+                    <ul class="child clearfix dib-wrap">
+                                                                            <li class="dib">
+                                <a href="http://www.haituncun.com/yjiajucw/ywoshiyp/yshuzi/">精品梳</a>
+                            </li>
+                                                    <li class="dib">
+                                <a href="http://www.haituncun.com/yjiajucw/ychufang/ylshxin/">滤水壶</a>
+                            </li>
+                                                    <li class="dib">
+                                <a href="http://www.haituncun.com/yjiajucw/ychufang/jjqjyp/">清洁用品</a>
+                            </li>
+                                            </ul>
+                </div>
+
+                                    <div class='hidepop hidepop-bottom'>
+                                                <div class="submenu-list">
+
+                            <div class="submenu-itemwrap clearfix"><dl class="submenu-item"><dt><a class="sub-link" href="http://www.haituncun.com/yjiajucw/ychufang/">厨房用品</a></dt><dd class="clearfix"><a href="http://www.haituncun.com/yjiajucw/ychufang/yqitacj/"class="submenu-link" target="_blank">其他厨具</a><a href="http://www.haituncun.com/yjiajucw/ychufang/ylshxin/"class="submenu-link" target="_blank">滤水壶/滤芯</a><a href="http://www.haituncun.com/yjiajucw/ychufang/yshuijiuj/"class="submenu-link" target="_blank">水壶茶具</a><a href="http://www.haituncun.com/yjiajucw/ychufang/jjqjyp/"class="submenu-link" target="_blank">清洁用品</a></dd></dl><dl class="submenu-item"><dt><a class="sub-link" href="http://www.haituncun.com/yjiajucw/kqjh/">空气净化</a></dt><dd class="clearfix"><a href="http://www.haituncun.com/yjiajucw/kqjh/kqjhq/"class="submenu-link" target="_blank">空气净化器</a><a href="http://www.haituncun.com/yjiajucw/kqjh/kqqxj/"class="submenu-link" target="_blank">空气清新剂</a></dd></dl></div><div class="submenu-itemwrap clearfix"><dl class="submenu-item"><dt><a class="sub-link" href="http://www.haituncun.com/yjiajucw/ywoshiyp/">卧室用品</a></dt><dd class="clearfix"><a href="http://www.haituncun.com/yjiajucw/ywoshiyp/yshuzi/"class="submenu-link" target="_blank">精品梳</a><a href="http://www.haituncun.com/yjiajucw/ywoshiyp/yxxlazhu/"class="submenu-link" target="_blank">香薰/蜡烛</a></dd></dl></div>
+                        </div>
+                         <div class="sub-side">
+                                    <a href="http://www.haituncun.com/yjiajucw/" target="_blank" class="single"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Fenlei/chuwei170314.jpg" width="160" height="180"> </a>
+                                        <div class="trademark">
+                                            <h3 class="trademark-title">
+                                                <i class="line-left"></i>
+                                                <i class="line-right"></i>
+                                                <span>热门品牌</span>
+                                            </h3>
+                                            <div class="trademark-list clearfix">
+                                                <a href="http://www.haituncun.com/yjiajucw/f-brand865.html" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/JJCW_01160513.jpg" width="74" height="42"></a>
+                                                <a href="http://www.haituncun.com/yjiajucw/f-brand1712.html" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/JJCW_02160513.jpg" width="74" height="42"></a>
+                                                <a href="http://www.haituncun.com/yjiajucw/f-brand4515/" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/JJCW_03170314.jpg" width="74" height="42"></a>
+                                                <a href="http://www.haituncun.com/yjiajucw/f-brand4516/" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/JJCW_04170314.jpg" height="42"></a>
+                                                <a href="http://www.haituncun.com/yjiajucw/f-brand4048.html" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/JJCW_05160815.jpg" height="42"></a>
+                                                <a href="http://www.haituncun.com/yrybh/f-brand4574/" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/JJCW_06170314.jpg" width="74" height="42"></a>
+                                            </div>
+                                        </div>
+                                    </div>                                            </div>
+                            </li>
+        
+            
+            <li class="parent yshipin_p">
+
+                <div class='p-menu '>
+                    <h2 class="yshipin">
+                        <i class="icon icon-yshipin"></i>
+                        <a href="http://www.haituncun.com/yshipin/">食品精选</a>
+                    </h2>
+                    <ul class="child clearfix dib-wrap">
+                                                                            <li class="dib">
+                                <a href="http://www.haituncun.com/yshipin/ycha/bjgnc/">功能茶</a>
+                            </li>
+                                                    <li class="dib">
+                                <a href="http://www.haituncun.com/yshipin/ylingshi/yguoni/">果泥果汁</a>
+                            </li>
+                                                    <li class="dib">
+                                <a href="http://www.haituncun.com/yshipin/ydaican/">营养代餐</a>
+                            </li>
+                                            </ul>
+                </div>
+
+                                    <div class='hidepop hidepop-bottom'>
+                                                <div class="submenu-list">
+
+                            <div class="submenu-itemwrap clearfix"><dl class="submenu-item"><dt><a class="sub-link" href="http://www.haituncun.com/yshipin/ycha/">茶</a></dt><dd class="clearfix"><a href="http://www.haituncun.com/yshipin/ycha/yhuaguoc/"class="submenu-link" target="_blank">花茶/果茶</a><a href="http://www.haituncun.com/yshipin/ycha/bjgnc/"class="submenu-link" target="_blank">保健功能茶</a></dd></dl><dl class="submenu-item"><dt><a class="sub-link" href="http://www.haituncun.com/yshipin/ykafei/">咖啡</a></dt><dd class="clearfix"><a href="http://www.haituncun.com/yshipin/ykafei/ylafdou/"class="submenu-link" target="_blank">咖啡豆</a></dd></dl></div><div class="submenu-itemwrap clearfix"><dl class="submenu-item"><dt><a class="sub-link" href="http://www.haituncun.com/yshipin/yzaocan/">营养早餐</a></dt><dd class="clearfix"><a href="http://www.haituncun.com/yshipin/yzaocan/ymaipian/"class="submenu-link" target="_blank">麦片</a></dd></dl><dl class="submenu-item"><dt><a class="sub-link" href="http://www.haituncun.com/yshipin/ylingshi/">零食</a></dt><dd class="clearfix"><a href="http://www.haituncun.com/yshipin/ylingshi/yqkl/"class="submenu-link" target="_blank">巧克力</a><a href="http://www.haituncun.com/yshipin/ylingshi/yguoni/"class="submenu-link" target="_blank">果泥/果汁</a><a href="http://www.haituncun.com/yshipin/ylingshi/ytangguo/"class="submenu-link" target="_blank">糖果</a></dd></dl></div><div class="submenu-itemwrap clearfix"><dl class="submenu-item"><dt><a class="sub-link" href="http://www.haituncun.com/yshipin/ydaican/">营养代餐</a></dt><dd class="clearfix"><a href="http://www.haituncun.com/yshipin/ydaican/yqkl3/"class="submenu-link" target="_blank">巧克力</a><a href="http://www.haituncun.com/yshipin/ydaican/ynaixi/"class="submenu-link" target="_blank">奶昔</a></dd></dl><dl class="submenu-item"><dt><a class="sub-link" href="http://www.haituncun.com/yshipin/fengmi/">蜂蜜</a></dt><dd class="clearfix"></dd></dl></div>
+                        </div>
+                         <div class="sub-side">
+                                    <a href="http://www.haituncun.com/yshipin/" target="_blank" class="single"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Fenlei/shipin170314.jpg" width="160" height="180"> </a>
+                                        <div class="trademark">
+                                            <h3 class="trademark-title">
+                                                <i class="line-left"></i>
+                                                <i class="line-right"></i>
+                                                <span>热门品牌</span>
+                                            </h3>
+                                            <div class="trademark-list clearfix">
+                                                <a href="http://www.haituncun.com/yshipin/f-brand2950.html" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/SPJX_01160513.jpg" width="74" height="42"></a>
+                                                <a href="http://www.haituncun.com/yshipin/f-brand4481/" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/SPJX_02170314.jpg" width="74" height="42"></a>
+                                                <a href="http://www.haituncun.com/yshipin/f-brand3572/" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/SPJX_03170314.jpg" height="42"></a>
+                                                <a href="http://www.haituncun.com/yshipin/f-brand4524/" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/SPJX_04170314.jpg" height="42"></a>
+                                                <a href="http://www.haituncun.com/yshipin/f-brand4477/" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/SPJX_05170314.jpg" height="42"></a>
+                                                <a href="http://www.haituncun.com/yyybaoj/f-brand2810/" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/SPJX_06170314.jpg" height="42"></a>
+                                            </div>
+                                        </div>
+                                    </div>                                            </div>
+                            </li>
+        
+            
+            <li class="parent ytzhwj_p">
+
+                <div class='p-menu last-child-p-menu'>
+                    <h2 class="ytzhwj">
+                        <i class="icon icon-ytzhwj"></i>
+                        <a href="http://www.haituncun.com/ytzhwj/">儿童玩具</a>
+                    </h2>
+                    <ul class="child clearfix dib-wrap">
+                                                                            <li class="dib">
+                                <a href="http://www.haituncun.com/ymuyin/yertwj/ymrwj/">毛绒玩具</a>
+                            </li>
+                                            </ul>
+                </div>
+
+                                    <div class='hidepop hidepop-bottom'>
+                                                <div class="submenu-list">
+
+                            <div class="submenu-itemwrap clearfix"><dl class="submenu-item"><dt><a class="sub-link" href="http://www.haituncun.com/ytzhwj/yymrwj/">毛绒玩具</a></dt><dd class="clearfix"></dd></dl></div>
+                        </div>
+                         <div class="sub-side">
+                                    <a href="http://www.haituncun.com/ytzhwj/" target="_blank" class="single"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Fenlei/tongwan160513.jpg" width="160" height="180"> </a>
+                                        <div class="trademark">
+                                            <h3 class="trademark-title">
+                                          <!--  <i class="line-left"></i>
+                                                <i class="line-right"></i>
+                                             <span>热门品牌</span>  -->
+                                            </h3>
+											<!--
+                                            <div class="trademark-list clearfix">
+                                                <a href="http://www.haituncun.com/ymuyin/yertwj/f-brand843.html" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/TZWJ_01160513.jpg" width="74" height="42"></a>
+                                                <a href="http://www.haituncun.com/ymuyin/yertwj/f-brand3671.html" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/TZWJ_02160513.jpg" width="74" height="42"></a>
+                                                <a href="http://www.haituncun.com/ymuyin/yertwj/f-brand3672.html" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/TZWJ_03160513.jpg" width="74" height="42"></a>
+                                                <a href="http://www.haituncun.com/ymuyin/yertwj/f-brand3679.html" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/TZWJ_04160513.jpg" height="42"></a>
+                                                <a href="http://www.haituncun.com/ymuyin/yertwj/f-brand2756.html" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/TZWJ_05160513.jpg" height="42"></a>
+                                                <a href="http://www.haituncun.com/ymuyin/yertwj/f-brand3676.html" target="_blank" class="trademark-item"><img src="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/Logo/TZWJ_06160513.jpg" width="74" height="42"></a>
+                                            </div>
+											-->
+                                        </div>
+                                    </div>                                            </div>
+                            </li>
+            </ul>
+</div>
+                                <!--
+<style>
+.header .logo { background: url("//assets.haituncun.com/skin/frontend/PlumTree/default/images/20171225/logo.gif") center top no-repeat !important; }
+</style>
+-->
+
+<ul id="nav" class="left main-list">
+                        <li id="homepage" class="item current">
+                            <a href="http://www.haituncun.com/">首页</a>
+                        </li>
+                        <li class="item globals">
+                            <a href="http://www.haituncun.com/global/">全球精品馆</a>
+                        </li>
+                        <li class="item globals">
+                            <a href="http://www.haituncun.com/global/hot/">全球精选</a>
+                        </li>
+                        <li class="item globals">
+                            <a href="http://www.haituncun.com/ycguojia/">全球商家</a>
+                        </li>
+                        <li class="item">
+                            <a href="http://www.haituncun.com/">欧洲<i class="icon icon-arrow"></i></a>
+                            <ul class="sub-catalog-panel">
+                                <li class="sub-catalog-title flag-GB">
+                                    <p class="title">英国</p>
+                     <!--           <a href="http://www.haituncun.com/ycguojia/ycgb/ycvtb/">英国VTB健康生活购物商城</a>
+                                    <a href="http://www.haituncun.com/ycguojia/ycgb/ycbfso/">英国BFSO日用品百货商城</a>     -->
+                                    <a href="http://www.haituncun.com/ycguojia/ycgb/feelunique/">英国Feelunique美妆</a>
+                                    <a href="http://www.haituncun.com/ycguojia/ycgb/yctlc/">英国TLC药店连锁</a>
+                                </li>
+                                <li class="sub-catalog-title flag-DE">
+                                    <p class="title">德国</p>
+                    <!--          <a href="http://www.haituncun.com/ycguojia/ycde/jakoo/">德国JAKO-O婴童用品商城</a>
+                                   <a href="http://www.haituncun.com/ycguojia/ycde/springlane/">德国SPL厨具商城</a> 
+                                    <a href="http://www.haituncun.com/ycguojia/ycde/ychcp/">德国HCP品质生活馆</a>    
+                                    <a href="http://www.haituncun.com/ycguojia/ycde/ycuka/">德国UKA优卡有机生活馆</a> -->
+                                    <a href="http://www.haituncun.com/ycguojia/ycde/ycba/">德国BA保镖药房</a>
+                                </li>
+       <!--                   <li class="sub-catalog-title flag-NL">
+                                    <a href="http://www.haituncun.com/ycguojia/ycnl/ychb/" >荷兰布提小店HB</a>
+                                    <p class="flag"></p>
+                                </li> 
+                                <li class="sub-catalog-title flag-FR">
+                                    <p class="title">法国</p>
+                                    <a href="http://www.haituncun.com/ycguojia/ycfr/laredoute/" >法国La Redoute百年童装馆</a>
+                                    <a href="http://www.haituncun.com/ycguojia/ycfr/ycpcs/" >法国CS药妆母婴保健馆</a>
+                                    <a href="http://www.haituncun.com/ycguojia/ycfr/ycp1001/">法国1001Pharmacies大药房</a>
+                                </li>-->
+       <!--                  <li class="sub-catalog-title last flag-BE">
+                                    <a href="http://www.haituncun.com/ycguojia/ycbel/ycfl/" >比利时FL在线药房</a>
+                                    <p class="flag"></p>
+                                </li>    -->
+                            </ul>
+                        </li>
+                        <li class="item">
+                            <a href="http://www.haituncun.com/">澳洲<i class="icon icon-arrow"></i></a>
+                            <ul class="sub-catalog-panel">
+                                <li class="sub-catalog-title flag-AU">
+                                    <p class="title">澳洲</p>
+                        <!--        <a href="http://www.haituncun.com/ycguojia/ycau/ycry/" >澳洲Roy Young折扣药房</a>   -->
+                                    <a href="http://www.haituncun.com/ycguojia/ycau/ycpo/">澳洲PO药品连锁店</a>
+                                   <a href="http://www.haituncun.com/ycguojia/ycau/ycamcal/" >澳洲Amcal连锁药房</a>
+                                </li>
+								 <!-- 
+                                <li class="sub-catalog-title flag-NZ">
+                                    <p class="title">新西兰</p>
+									<a href="http://www.haituncun.com/ycguojia/ycau/ycpd/" >新西兰PD线上药房</a> 
+                                    <a href="http://www.haituncun.com/ycguojia/ycau/kiwidiscovery/"> KiwiDiscovery新西兰特色馆</a>
+                                    <a href="http://www.haituncun.com/ycguojia/ycau/netpharmacy/">新西兰NP健康药房</a>
+                                </li> -->
+                            </ul>
+                        </li>
+						<!--
+                        <li class="item">
+                            <a href="http://www.haituncun.com/">美洲<i class="icon icon-arrow"></i></a>
+                            <ul class="sub-catalog-panel">
+                                <li class="sub-catalog-title flag-US">
+                                    <p class="title">美国</p>
+                                    <a href="http://www.haituncun.com/ycguojia/ycus/wnc/">美国WNC保健品专营店</a>
+                                </li>
+								<li><a href="http://www.haituncun.com/yybaoj/jichuyy/1010162/" target="_blank"><img src="http://assets.haituncun.com/media/wysiwyg/New_HomePage/AD/DHA.jpg" alt="挪威小鱼鳕鱼鱼肝油婴幼儿DHA"></a></li>  
+                            </ul>
+                        </li>
+						 -->
+                        <li class="item">
+                            <a href="http://www.haituncun.com/">亚洲<i class="icon icon-arrow"></i></a>
+                            <ul class="sub-catalog-panel">
+                                <li class="sub-catalog-title flag-KR">
+                                    <p class="title">韩国</p>
+                                    <a href="http://www.haituncun.com/ycguojia/ykorea/ylpcos/">韩国L&amp;P Cosmetic</a>
+                                </li>
+                     <!--        <li><a href="http://www.haituncun.com/meiryz/mianbhf/1025328/" target="_blank"><img src="http://assets.haituncun.com/media/wysiwyg/New_HomePage/AD/Rohto160908.jpg" alt="Rohto 乐敦 CC渗透维他命C美白祛痘印晒后修复美容液"></a></li>  -->
+                            </ul>
+                        </li>
+                        <li class="level0 nav-5 item upbuy">
+                            <a href="http://haigou.unionpay.com/DirectMail.aspx" target="_blank">银联海购</a>
+                        </li>
+                    </ul>            </div>
+</div>    </div>
+<script type="text/javascript">
+    jQuery.ajax({
+        type: 'get',
+        url: ROOT_URL + "o_customer/info/getCustomer",
+        dataType: 'jsonp',
+        data: 'callback=?',
+        success: function (data) {
+            if (data.ret == 0) {
+                jQuery('.header-topbar-info .login').remove();
+                jQuery('.header-topbar-info .login-link').find('a').attr('href', data.loginUrl);
+            }
+            else {
+                jQuery("#isLogin").val(1);
+                jQuery('.header-topbar-info .logout').remove();
+            }
+
+            jQuery("#customer-service").attr("lim_info", data.live800Info);
+            jQuery('.header-topbar-info #customerName').text(data.customerName);
+            jQuery('.header-topbar-info').show();
+        }
+    });
+</script>
+<input type="hidden" id="isLogin" value="0"/>
+
+<!--<div class="home_page_header_block">-->
+<!--    --><!--</div>-->
+        <div class="main-container col1-layout">
+            <div class="main">
+                                <div class="col-main">
+                                        <div class="std"><div class="focus-container">
+    <div class="slider-wrap">
+        <a href="javascript:void(0);" class="slider-btn btn-prev">prev</a>
+        <a href="javascript:void(0);" class="slider-btn btn-next">next</a>
+    </div>
+    <div class="slider-special">
+        <div class="slider-special-group">
+            <a href="http://www.haituncun.com/ymuyin/ynaiffs/ypeifnf/" target="_blank" class="slider-special-link">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Menu/AD/R1_20160518.jpg" width="200" height="210" class="slider-special-pic lazy"/>
+            </a>
+            <a href="http://www.haituncun.com/promotion/" target="_blank" class="slider-special-link">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/newindex/slider-active2.jpg" width="200" height="210" class="slider-special-pic lazy"/>
+            </a>
+        </div>
+    </div>
+</div> 
+<div class="sales">
+    <ul class="sales-list clearfix"></ul>
+    <a href="http://www.haituncun.com/global/hot/" target="_blank" class="sale-more">
+        <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/wysiwyg/New_HomePage/sales/sales160517.jpg" alt=""  width="200" height="300" class="sale-morepic lazy" />
+    </a>
+</div> 
+<div class="global">
+    <div class="country-mall" id="mall">
+        <h2 class="caption">
+            <a class="left" href="http://www.haituncun.com/global/" target="_blank"></a>
+            <a class="right" href="http://www.haituncun.com/global/" target="_blank">查看更多<i class="icon icon-doublearr"></i></a>
+        </h2>
+        <div class="mall-main clearfix">
+		<!--
+            <a href="http://www.haituncun.com/global/japan/" target="_blank" class="mall-hot">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/newindex/v-japan.jpg" width="230" height="350" class="mall-hot-pic lazy"/>				
+                <p class="mall-summary">
+                    <span>满198元包邮</span>
+                    <span class="mall-enter">进去逛逛<i class="icon icon-doublearr"></i></span>
+                </p>
+            </a>
+			
+						
+			
+            <a href="http://www.haituncun.com/global/america/" target="_blank" class="mall-hot">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="http://assets.haituncun.com/media/wysiwyg/zhuanti/countrypage/logo/jingpinguan/global_america170324.jpg" width="230" height="350" class="mall-hot-pic lazy"/>				
+                <p class="mall-summary">
+                    <span>全场包邮</span>
+                    <span class="mall-enter">进去逛逛<i class="icon icon-doublearr"></i></span>
+                </p>
+            </a>
+						
+            <a href="http://www.haituncun.com/global/france/" target="_blank" class="mall-hot">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="http://assets.haituncun.com/media/wysiwyg/zhuanti/countrypage/logo/jingpinguan/global_france170622.jpg" width="230" height="350" class="mall-hot-pic lazy"/>				
+                <p class="mall-summary">
+                    <span>全场包邮</span>
+                    <span class="mall-enter">进去逛逛<i class="icon icon-doublearr"></i></span>
+                </p>
+            </a>
+			
+			-->
+			
+            <a href="http://www.haituncun.com/global/japan/" target="_blank" class="mall-hot">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/newindex/v-japan.jpg" width="230" height="350" class="mall-hot-pic lazy"/>				
+                <p class="mall-summary">
+                    <span>全场包邮</span>
+                    <span class="mall-enter">进去逛逛<i class="icon icon-doublearr"></i></span>
+                </p>
+            </a>
+			
+            <div class="mall-list clearfix">
+                <a href="http://www.haituncun.com/global/netherlands/" target="_blank" class="mall-item">
+                    <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/newindex/h-hl.jpg" width="310" height="170" class="mall-item-pic lazy"/>
+                    <p class="mall-summary">
+                        <span class="left">全场包邮</span>
+                        <span class="right">进去逛逛<i class="icon icon-whitearr"></i></span>
+                    </p>
+                </a>
+                <a href="http://www.haituncun.com/global/austrilia/" target="_blank" class="mall-item">
+                    <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/newindex/h-au.jpg" width="310" height="170" class="mall-item-pic lazy"/>
+                    <p class="mall-summary">
+                        <span class="left">全场包邮</span>
+                        <span class="right">进去逛逛<i class="icon icon-whitearr"></i></span>
+                    </p>
+                </a>
+                <a href="http://www.haituncun.com/global/britain/" target="_blank" class="mall-item">
+                    <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/newindex/h-uk.jpg" width="310" height="170" class="mall-item-pic lazy"/>
+                    <p class="mall-summary">
+                        <span class="left">全场包邮</span>
+                        <span class="right">进去逛逛<i class="icon icon-whitearr"></i></span>
+                    </p>
+                </a>
+                <a href="http://www.haituncun.com/global/newzealand/" target="_blank" class="mall-item">
+                    <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/newindex/h-nzl.jpg" width="310" height="170" class="mall-item-pic lazy"/>
+                    <p class="mall-summary">
+                        <span class="left">全场包邮</span>
+                        <span class="right">进去逛逛<i class="icon icon-whitearr"></i></span>
+                    </p>
+                </a>
+                <a href="http://www.haituncun.com/global/korea/" target="_blank" class="mall-item">
+                    <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/newindex/h-korea.jpg" width="310" height="170" class="mall-item-pic lazy"/>
+                    <p class="mall-summary">
+                        <span class="left">全场包邮</span>
+                        <span class="right">进去逛逛<i class="icon icon-whitearr"></i></span>
+                    </p>
+                </a>
+
+                <a href="http://www.haituncun.com/global/germany/" target="_blank" class="mall-item">
+                    <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/newindex/h-germany.jpg" width="310" height="170" class="mall-item-pic lazy"/>
+                    <p class="mall-summary">
+                        <span class="left">全场包邮</span>
+                        <span class="right">进去逛逛<i class="icon icon-whitearr"></i></span>
+                    </p>
+                </a>
+				
+				<!--
+				<a href="http://www.haituncun.com/global/japan/" target="_blank" class="mall-item">
+                    <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="http://assets.haituncun.com/media/wysiwyg/zhuanti/countrypage/logo/jingpinguan/global_japan170316.jpg" width="310" height="170" class="mall-item-pic lazy"/>
+                    <p class="mall-summary">
+                        <span class="left">全场包邮</span>
+                        <span class="right">进去逛逛<i class="icon icon-whitearr"></i></span>
+                    </p>
+                </a>
+				
+                <a href="http://www.haituncun.com/global/france/" target="_blank" class="mall-item">
+                    <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/wysiwyg/zhuanti/countrypage/logo/jingpinguan/global_france170112.jpg" width="310" height="170" class="mall-item-pic lazy"/>
+                    <p class="mall-summary">
+                        <span class="left">全场包邮</span>
+                        <span class="right">进去逛逛<i class="icon icon-whitearr"></i></span>
+                    </p>
+                </a>
+				
+                <a href="http://www.haituncun.com/global/germany/" target="_blank" class="mall-item">
+                    <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/newindex/h-germany.jpg" width="310" height="170" class="mall-item-pic lazy"/>
+                    <p class="mall-summary">
+                        <span class="left">全场包邮</span>
+                        <span class="right">进去逛逛<i class="icon icon-whitearr"></i></span>
+                    </p>
+                </a>
+				-->
+				
+				
+            </div>
+        </div>
+ </div>
+<div class="global-seller" id="seller">
+    <h2 class="caption">
+        <a class="left" href="http://www.haituncun.com/ycguojia/" target="_blank"></a>
+        <a class="right" href="http://www.haituncun.com/ycguojia/" target="_blank">查看更多<i class="icon icon-doublearr"></i></a>
+    </h2>
+    <ul class="seller-main clearfix">
+                <li>
+            <div class="seller-item">
+                <a href="http://www.haituncun.com/ycguojia/ycau/ycpo/" target="_blank" class="top seller1">
+                    <img class="lazy" src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="http://app-img.haituncun.com/uploads/images/seller/banner/6154d5f94eabdf7d1a4760c908827db5.jpg" alt="澳洲PO药品连锁店" width="390">
+                    <div class="shop-entry">
+                        <span class="left">全场5折起</span>
+                        <span class="right">进入店铺<i class="icon icon-whitearr"></i></span>
+                    </div>
+                </a>
+                <div class="middle">
+                    <a href="http://www.haituncun.com/ycguojia/ycau/ycpo/" target="_blank" class="shop-link"><img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="http://app-img.haituncun.com/uploads/images/seller/logo/d7d73216c5528f7e030a72de5d1fa036.jpg" width="100" height="62" class="shop-logo lazy"/></a>
+                    <p class="shop-detail">Pharmacy Online 是一家家喻户晓的澳洲最大的药品保健品和营养品电商之一，总部位于澳大利亚新南威尔士洲，客户超过60万人， 遍布世界各地四十多个国家。</p>
+                </div>
+                <ul class="bottom clearfix">
+                                        <li>
+                        <a href="http://www.haituncun.com/rybh/muyuyp/1015490/" target="_blank" class="good">
+                            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/g/t/gtsaucos10070003.jpg?imageView2/0/w/140/h/140" width="140" height="140" class="good-pic lazy"/>
+                            <p class="good-summary">纯手工山羊奶皂</p>
+                            <span class="good-price">
+                                <em>¥12.60</em>
+                                <span>AU$2.25</span>
+                            </span>
+                        </a>
+                    </li>
+                                        <li>
+                        <a href="http://www.haituncun.com/yybaoj/bjwyp/1007668/" target="_blank" class="good">
+                            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/l/p/lpoaucos10020001.jpg?imageView2/0/w/140/h/140" width="140" height="140" class="good-pic lazy"/>
+                            <p class="good-summary">Lucas Papaw Ointment 天然神奇番木瓜膏万用膏 75g</p>
+                            <span class="good-price">
+                                <em>¥55.74</em>
+                                <span>AU$9.95</span>
+                            </span>
+                        </a>
+                    </li>
+                                    </ul>
+            </div>
+        </li>
+                <li>
+            <div class="seller-item">
+                <a href="http://www.haituncun.com/ycguojia/ycde/ycba/" target="_blank" class="top seller1">
+                    <img class="lazy" src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="http://app-img.haituncun.com/uploads/images/seller/banner/5635ccf703521b95a05bdf67727c1374.jpg" alt="德国BA保镖药房" width="390">
+                    <div class="shop-entry">
+                        <span class="left">低至7折</span>
+                        <span class="right">进入店铺<i class="icon icon-whitearr"></i></span>
+                    </div>
+                </a>
+                <div class="middle">
+                    <a href="http://www.haituncun.com/ycguojia/ycde/ycba/" target="_blank" class="shop-link"><img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="http://app-img.haituncun.com/uploads/images/seller/logo/183faf301db2e1a677882ca06058bf2e.jpg" width="100" height="62" class="shop-logo lazy"/></a>
+                    <p class="shop-detail">Bodyguard Apotheke 是德国连锁药房Einhorn Apotheke 的线上药房，德国国家认证，德国知名的连锁药房之一，总部位于德国普福尔茨海姆。Einhorn Apotheke 由Kraus家族创办经营，已有百年历史。</p>
+                </div>
+                <ul class="bottom clearfix">
+                                        <li>
+                        <a href="http://www.haituncun.com/rybh/muyuyp/1005025/" target="_blank" class="good">
+                            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/k/a/kappus-_-150g.jpg?imageView2/0/w/140/h/140" width="140" height="140" class="good-pic lazy"/>
+                            <p class="good-summary">Kappus 薰衣草香皂</p>
+                            <span class="good-price">
+                                <em>¥8.24</em>
+                                <span>€0.99</span>
+                            </span>
+                        </a>
+                    </li>
+                                        <li>
+                        <a href="http://www.haituncun.com/rybh/xifahuf/1019347/" target="_blank" class="good">
+                            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/a/p/apndecos10030003.jpg?imageView2/0/w/140/h/140" width="140" height="140" class="good-pic lazy"/>
+                            <p class="good-summary">阿佩辛 C1洗发水</p>
+                            <span class="good-price">
+                                <em>¥66.14</em>
+                                <span>€7.95</span>
+                            </span>
+                        </a>
+                    </li>
+                                    </ul>
+            </div>
+        </li>
+                <li>
+            <div class="seller-item">
+                <a href="http://www.haituncun.com/ycguojia/ycgb/feelunique/" target="_blank" class="top seller1">
+                    <img class="lazy" src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="http://app-img.haituncun.com/uploads/images/seller/banner/0e3694a8ea60621ea0b4070aa404114d.jpg" alt="英国Feelunique美妆" width="390">
+                    <div class="shop-entry">
+                        <span class="left">全场7折起</span>
+                        <span class="right">进入店铺<i class="icon icon-whitearr"></i></span>
+                    </div>
+                </a>
+                <div class="middle">
+                    <a href="http://www.haituncun.com/ycguojia/ycgb/feelunique/" target="_blank" class="shop-link"><img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="http://app-img.haituncun.com/uploads/images/seller/logo/ece6db01886060581405e34c78241788.jpg" width="100" height="62" class="shop-logo lazy"/></a>
+                    <p class="shop-detail">Feelunique 是欧洲知名的化妆品零售电商，2005年由互联网企业家Aaron Chatterley和Richard Schiessl创立于英国Jersey岛，现隶属于专注投资欧洲快速增长企业的伦敦私募股权公司Palamon。</p>
+                </div>
+                <ul class="bottom clearfix">
+                                        <li>
+                        <a href="http://www.haituncun.com/meiryz/mianbhf/1020289/" target="_blank" class="good">
+                            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/c/a/cadgbcos10010002_1.jpg?imageView2/0/w/140/h/140" width="140" height="140" class="good-pic lazy"/>
+                            <p class="good-summary">欧缇丽 葡萄活性精华爽肤水</p>
+                            <span class="good-price">
+                                <em>¥294.66</em>
+                                <span>£32.00</span>
+                            </span>
+                        </a>
+                    </li>
+                                        <li>
+                        <a href="http://www.haituncun.com/meiryz/mianbhf/1021864/" target="_blank" class="good">
+                            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/j/q/jqegbcos10010021_1.jpg?imageView2/0/w/140/h/140" width="140" height="140" class="good-pic lazy"/>
+                            <p class="good-summary">茱莉蔻 玫瑰衡肤花卉水</p>
+                            <span class="good-price">
+                                <em>¥165.75</em>
+                                <span>£18.00</span>
+                            </span>
+                        </a>
+                    </li>
+                                    </ul>
+            </div>
+        </li>
+            </ul>
+
+</div>
+</div> 
+<div class="classify-container">
+<!--母婴用品-->
+    <div class="classify mb" id="mb">
+    <h2 class="caption">
+        <a class="left" href="http://www.haituncun.com/ymuyin/" target="_blank"></a>
+        <a class="right" href="http://www.haituncun.com/ymuyin/" target="_blank">查看更多<i class="icon icon-doublearr"></i></a>
+    </h2>
+    <div class="template clearfix">
+        <div class="template-links">
+            <a href="http://www.haituncun.com/catalogsearch/result/?q=Aptamil#page-1" target="_blank" class="template-info">
+               <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Pinlei/F10/my_20171010.jpg"  width="300" height="480" class="lazy"/>          
+            </a>
+            <div class="mold">
+               <p class="mold-title">
+                   <i class="line-left"></i>
+                   <i class="line-right"></i>
+                   <span>热门HOT</span>
+               </p>
+                <ul class="hot-list">
+                    <li class="hot-item"><a href="http://www.haituncun.com/ymuyin/ynaiffs/ypeifnf/" target="_blank">配方奶粉</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/ymuyin/yyinyyy/" target="_blank">宝宝营养</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/ymuyin/ynaiffs/yyangnf/" target="_blank">羊奶粉</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/ymuyin/yxihuyp/ybbxiyu/" target="_blank">宝宝洗浴</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/ymuyin/yweiyyp1/" target="_blank" class="highlight">喂养用品</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/ymuyin/yweiyyp1/ynaip/f-p1/" target="_blank">奶瓶奶嘴</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/ymuyin/yxihuyp/ybbhf/" target="_blank">宝宝护肤</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/ymuyin/yweiyyp1/yxinaicn/" target="_blank">吸奶/储奶器</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/ymuyin/ymamazq/" target="_blank">备孕营养</a></li>
+                </ul>
+            </div>
+        </div>
+       
+<div class="template-goods">
+    <div class="goods-up">
+                <a href="http://www.haituncun.com/muyin/yinyounf/1041076/" class="good first" target="_blank">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbaaubbya0010034x3.jpg?imageView2/0/w/200/h/200" width="200" height="200" class="good-pic lazy"/>
+            <div class="good-txt">
+                <span class="good-summary">A2 白金3段奶粉 3罐</span>
+                <p class="good-info">
+                    A2 白金系列 婴幼儿配方奶粉是由天然牛奶加工而成，奶粉中含有100%天然的A2 β-酪蛋白，不含A1酪蛋白 ，是最自然源生的配方，也是与母体天生的蛋白元素最为贴近的奶粉配方，有助于宝宝的消化吸收及长远的健康。A2 白金系列 婴幼儿配方奶粉含有婴幼儿最容易吸收的黄金蛋白，富含100%自然源生的A2 β-酪蛋白，更具有营养价值。                </p>
+                <span class="good-price">
+                    <em>¥738.00</em>
+                    <span>AU$131.73</span>
+                </span>
+            </div>
+        </a>
+                <a href="http://www.haituncun.com/yybaoj/wkwz/1041080/" target="_blank" class="good">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/a/a/aaa21103x4_1.jpg?imageView2/0/w/200/h/200" class="good-pic lazy" width="160" height="160"/>
+            <p class="good-summary">Vitabiotics 钙镁锌液体钙 4瓶</p>
+            <span class="good-price">
+                <em>¥179.00</em>
+                <span>£19.43</span>
+            </span>
+        </a>
+    </div>
+    <div class="goods-down clearfix">
+                <a href="http://www.haituncun.com/muyin/bbhl/1041148/" target="_blank" class="good">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbacncos10060005_1.jpg?imageView2/0/w/200/h/200" class="good-pic lazy" width="160" height="160"/>
+            <p class="good-summary">Mustela 婴儿洗发沐浴露 2瓶</p>
+            <span class="good-price">
+                <em>¥125.00</em>
+                <span>€15.03</span>
+            </span>
+        </a>
+                <a href="http://www.haituncun.com/muyin/yinyounf/1041134/" target="_blank" class="good">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/1/_/1_45.jpg?imageView2/0/w/200/h/200" class="good-pic lazy" width="160" height="160"/>
+            <p class="good-summary">Aptamil 金装3段奶粉 2罐</p>
+            <span class="good-price">
+                <em>¥306.00</em>
+                <span>AU$54.62</span>
+            </span>
+        </a>
+                <a href="http://www.haituncun.com/muyin/bbhl/1041131/" target="_blank" class="good">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/1/_/1_44_6.jpg?imageView2/0/w/200/h/200" class="good-pic lazy" width="160" height="160"/>
+            <p class="good-summary">Pigeon 桃子水 痱子水 2瓶</p>
+            <span class="good-price">
+                <em>¥175.00</em>
+                <span>JP¥2,750.00</span>
+            </span>
+        </a>
+            </div>
+</div>
+
+       <div class="template-new">
+    <p class="caption">
+        <i class="line-left"></i>
+        <i class="line-right"></i>
+        <span>最新热卖NEW</span>
+    </p>
+    <div class="template-newlist">
+                <div class="template-newitem">
+                        <a href="http://www.haituncun.com/yybaoj/wkwz/1036541/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbaauspl30010004x4.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">Ostelin 婴幼儿维生素D滴剂</span>
+                    <span class="good-price"><em>¥198.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/yybaoj/jichuyy/1037623/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbahkspl30020045x2.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">【2件包邮装】ChildLife 儿童紫锥菊滴剂 2*29.6ml/瓶（适合6个月-12岁的宝宝）</span>
+                    <span class="good-price"><em>¥109.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/shipin/lingshi/1040915/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/h/s/hsl002x3.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">Healtheries 儿童牛奶片 3瓶</span>
+                    <span class="good-price"><em>¥135.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/yybaoj/jichuyy/1040636/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/a/a/aaa16002x2_3.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">Sambucol 黑接骨木糖浆 4瓶</span>
+                    <span class="good-price"><em>¥255.00</em></span>
+                </div>
+            </a>
+                    </div>
+                <div class="template-newitem">
+                        <a href="http://www.haituncun.com/rybh/kouqhl/1037705/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/3/_/3_.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">【限时特惠】Dontodent 可吞咽抗龋齿婴幼儿牙膏</span>
+                    <span class="good-price"><em>¥65.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/rybh/kouqhl/1037703/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/0/_/0_2_30.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">【包邮装】Dontodent 儿童防蛀牙膏 3支</span>
+                    <span class="good-price"><em>¥65.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/muyin/bbhl/1040827/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbacncos10060002_1.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">【包邮装】Gaia 天然婴儿洗发沐浴2合1 500ml</span>
+                    <span class="good-price"><em>¥89.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/yybaoj/wkwz/1041080/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/a/a/aaa21103x4_1.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">Vitabiotics 钙镁锌液体钙 4瓶</span>
+                    <span class="good-price"><em>¥179.00</em></span>
+                </div>
+            </a>
+                    </div>
+            </div>
+</div>
+
+        </div>
+</div>
+
+<!--营养保健-->
+    <div class="classify hn" id="hn">
+    <h2 class="caption">
+        <a class="left" href="http://www.haituncun.com/yyybaoj/" target="_blank"></a>
+        <a class="right" href="http://www.haituncun.com/yyybaoj/" target="_blank">查看更多<i class="icon icon-doublearr"></i></a>
+    </h2>
+    <div class="template clearfix">
+        <div class="template-links">
+            <a href="http://www.haituncun.com/yyybaoj/f-brand1134-dirdesc-orderprice.html" target="_blank" class="template-info">
+               <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Pinlei/F10/bj_20171010.jpg"  width="300" height="480" class="lazy"/>
+            </a>
+            <div class="mold">
+               <p class="mold-title">
+                   <i class="line-left"></i>
+                   <i class="line-right"></i>
+                   <span>热门HOT</span>
+               </p>
+                <ul class="hot-list">
+                    <li class="hot-item"><a href="http://www.haituncun.com/yyybaoj/yyyjk/ytjiemy/" target="_blank">调节免疫</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/yyybaoj/yyyjk/ytiaoj3g/" target="_blank">调节三高</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/yyybaoj/yyyjk/ybuxie1/" target="_blank">补铁补血</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/yyybaoj/yyyjk/yzhuangy/" target="_blank">补肾壮阳</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/yyybaoj/yyyjk/yganshyh/" target="_blank">肝肾养护</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/yyybaoj/yyyjk/ygujk1/" target="_blank">骨骼健康</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/yyybaoj/yyyjk/ynanvby/" target="_blank">男女备孕</a></li>
+                </ul>
+            </div>
+        </div>
+       
+<div class="template-goods">
+    <div class="goods-up">
+                <a href="http://www.haituncun.com/yybaoj/jichuyy/1039614/" class="good first" target="_blank">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbaauspl30010007x3.jpg?imageView2/0/w/200/h/200" width="200" height="200" class="good-pic lazy"/>
+            <div class="good-txt">
+                <span class="good-summary">【包邮装】Swisse 维生素C泡腾片</span>
+                <p class="good-info">
+                    Swisse VC泡腾片（增强免疫力）有助于减轻感冒症状的严重程度和持续时间，支持免疫功能，皮肤的健康和健康的抗氧化活性；含有的维生素C是形成胶原蛋白和肌肤弹性必不可少的，并可以帮助促进轻微伤口愈合过程；同时，它也是是一种抗氧化剂，这有助于支持健康的抗氧化活性，也有助于膳食铁的吸收。</br>温馨提示：本品为膳食补充剂（营养素补充剂），不能替代药物。<br>温馨提示：由于EMS服务调整，即日起，暂停收寄新疆部分地区的快递包裹及标准邮件（标准快件正常收寄），恢复时间另行通知。                </p>
+                <span class="good-price">
+                    <em>¥335.00</em>
+                    <span>AU$59.80</span>
+                </span>
+            </div>
+        </a>
+                <a href="http://www.haituncun.com/yybaoj/jichuyy/1037614/" target="_blank" class="good">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/s/w/swiauspl30010068x2_1.jpg?imageView2/0/w/200/h/200" class="good-pic lazy" width="160" height="160"/>
+            <p class="good-summary">【包邮装】Swisse 清肺片 2瓶</p>
+            <span class="good-price">
+                <em>¥379.00</em>
+                <span>AU$67.65</span>
+            </span>
+        </a>
+    </div>
+    <div class="goods-down clearfix">
+                <a href="http://www.haituncun.com/yybaoj/jichuyy/1041122/" target="_blank" class="good">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbahkspl30020073x2_1.jpg?imageView2/0/w/200/h/200" class="good-pic lazy" width="160" height="160"/>
+            <p class="good-summary">【2件包邮装】纤Q好手艺 16版 冲泡式薏仁水 2*30包/盒</p>
+            <span class="good-price">
+                <em>¥175.00</em>
+                <span>JP¥2,750.00</span>
+            </span>
+        </a>
+                <a href="http://www.haituncun.com/yybaoj/jichuyy/1041118-41118/" target="_blank" class="good">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbagbspl30020003x2_2.jpg?imageView2/0/w/200/h/200" class="good-pic lazy" width="160" height="160"/>
+            <p class="good-summary">【2件包邮装】Holland & Barrett Omega3 多烯鱼油软胶囊 2*250粒/瓶</p>
+            <span class="good-price">
+                <em>¥259.00</em>
+                <span>£28.12</span>
+            </span>
+        </a>
+                <a href="http://www.haituncun.com/yybaoj/jichuyy/1040956/" target="_blank" class="good">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/n/s/ns116137x2_1.jpg?imageView2/0/w/200/h/200" class="good-pic lazy" width="160" height="160"/>
+            <p class="good-summary">【2件包邮装】Childlife 婴幼儿精纯DHA软胶囊 2*90粒/瓶</p>
+            <span class="good-price">
+                <em>¥145.00</em>
+                <span>US$20.54</span>
+            </span>
+        </a>
+            </div>
+</div>
+
+       <div class="template-new">
+    <p class="caption">
+        <i class="line-left"></i>
+        <i class="line-right"></i>
+        <span>最新热卖NEW</span>
+    </p>
+    <div class="template-newlist">
+                <div class="template-newitem">
+                        <a href="http://www.haituncun.com/muyin/weiyyp1/1036429/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbanlbbya0020001x2.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">La Tourangelle 拉杜蓝乔 纯核桃油</span>
+                    <span class="good-price"><em>¥185.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/yybaoj/jichuyy/1036519/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/8/_/8_3_4.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">【包邮装】澳佳宝 孕哺期黄金营养素胶囊 2*180粒</span>
+                    <span class="good-price"><em>¥395.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/yybaoj/wkwz/1036925/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/0/0/00_1_1.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">【包邮装】Salus 铁元 补铁补血营养片 2盒</span>
+                    <span class="good-price"><em>¥218.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/yybaoj/jichuyy/1040636/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/a/a/aaa16002x2_3.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">Sambucol 黑接骨木糖浆 4瓶</span>
+                    <span class="good-price"><em>¥255.00</em></span>
+                </div>
+            </a>
+                    </div>
+                <div class="template-newitem">
+                        <a href="http://www.haituncun.com/yybaoj/wkwz/1040627/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/2/_/2_27_13.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">Ddrops 婴儿维生素 D3 </span>
+                    <span class="good-price"><em>¥235.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/rybh/shtihl/1040490/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/b/p/bphkspld0030001.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">【3件包邮装】Mentholatum 曼秀雷敦 液体创可贴 3*10g/支</span>
+                    <span class="good-price"><em>¥180.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/yybaoj/bjwyp/1040366/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbahkspl30020071.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">参天 银色眼药水</span>
+                    <span class="good-price"><em>¥155.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/yybaoj/jichuyy/1040318/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/3/_/3_30_8.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">【包邮装】POLA 宝丽 胶原蛋白抗糖化美白丸 180粒/盒 （3个月用量-美白/祛黄/保湿）</span>
+                    <span class="good-price"><em>¥1290.00</em></span>
+                </div>
+            </a>
+                    </div>
+                <div class="template-newitem">
+                        <a href="http://www.haituncun.com/yybaoj/jichuyy/1039646/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/a/h/ahlauspl30020001_2.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">Anthogenol 高浓度葡萄籽精华</span>
+                    <span class="good-price"><em>¥659.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/yybaoj/jichuyy/1039645/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbaauspl30020054x2.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">【2件包邮装】Ethical Nutrients 人参精华片 2*60粒/瓶</span>
+                    <span class="good-price"><em>¥495.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/yybaoj/jichuyy/1039654/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/1/_/1_32_8.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">Biocyte 丰胸胶囊</span>
+                    <span class="good-price"><em>¥378.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/yybaoj/bjwyp/1040489/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/4/_/4_5_83.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">LYCEE滴眼液 维生素和氨基酸营养眼药水黄色</span>
+                    <span class="good-price"><em>¥115.00</em></span>
+                </div>
+            </a>
+                    </div>
+            </div>
+</div>
+
+        </div>
+</div>
+<!--美容药妆-->
+    <div class="classify beauty" id="beauty">
+    <h2 class="caption">
+        <a class="left" href="http://www.haituncun.com/ymeiryz/" target="_blank"></a>
+        <a class="right" href="http://www.haituncun.com/ymeiryz/" target="_blank">查看更多<i class="icon icon-doublearr"></i></a>
+    </h2>
+    <div class="template clearfix">
+        <div class="template-links">
+            <a href="http://www.haituncun.com/ymeiryz/f-_t_t_t0-brand4721-cosmetics_types4415-dirdesc-orderprice.html" target="_blank" class="template-info">
+               <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Pinlei/F10/mz_20171010.jpg" width="300" height="480" class="lazy"/>
+
+            </a>
+            <div class="mold">
+               <p class="mold-title">
+                   <i class="line-left"></i>
+                   <i class="line-right"></i>
+                   <span>热门HOT</span>
+               </p>
+                <ul class="hot-list">
+                    <li class="hot-item"><a href="http://www.haituncun.com/ymeiryz/ymianbhl/yxiezjm/" target="_blank">卸妆洁面</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/ymeiryz/ymianbhl/ymianmo/" target="_blank">面膜</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/ymeiryz/ymianbhl/ysfsbspw/" target="_blank">爽肤水</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/ymeiryz/ymianbhl/yruyi/" target="_blank">乳液</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/ymeiryz/ymianbhl/yyansh/" target="_blank" class="highlight">眼霜</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/ymeiryz/ymianbhl/yruncg/" target="_blank">润唇膏</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/ymeiryz/ycaizh/" target="_blank">个人彩妆</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/ymeiryz/yshentihl/" target="_blank">身体护理</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/ymeiryz/ymianbhl/yjinghua/" target="_blank">精华</a></li>
+                </ul>
+            </div>
+        </div>
+       
+<div class="template-goods">
+    <div class="goods-up">
+                <a href="http://www.haituncun.com/meiryz/mianbhf/1041160/" class="good first" target="_blank">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/2/_/2_30_29.jpg?imageView2/0/w/200/h/200" width="200" height="200" class="good-pic lazy"/>
+            <div class="good-txt">
+                <span class="good-summary">贝德玛粉水 2瓶</span>
+                <p class="good-info">
+                    Bioderma 贝德玛 粉水深层卸妆洁肤水，开创了胶束的解决方案的特殊配方，只需轻轻清理脸部和眼睛，就能有效去除防水彩妆。其配方中包含的胶团有效micro-emulsify杂质,能同时保持皮肤的平衡（无皂、生理的pH值）。                </p>
+                <span class="good-price">
+                    <em>¥225.00</em>
+                    <span>€27.05</span>
+                </span>
+            </div>
+        </a>
+                <a href="http://www.haituncun.com/meiryz/mianbhf/1041146/" target="_blank" class="good">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbacncos10010041.jpg?imageView2/0/w/200/h/200" class="good-pic lazy" width="160" height="160"/>
+            <p class="good-summary">Caudalie 葡萄籽水 2瓶</p>
+            <span class="good-price">
+                <em>¥179.00</em>
+                <span>€21.52</span>
+            </span>
+        </a>
+    </div>
+    <div class="goods-down clearfix">
+                <a href="http://www.haituncun.com/meiryz/mianbhf/1041133/" target="_blank" class="good">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/1/_/1_44_8.jpg?imageView2/0/w/200/h/200" class="good-pic lazy" width="160" height="160"/>
+            <p class="good-summary">RE:CIPE 防晒喷雾 3瓶</p>
+            <span class="good-price">
+                <em>¥175.00</em>
+                <span>￦27,811.00</span>
+            </span>
+        </a>
+                <a href="http://www.haituncun.com/meiryz/mianbhf/1041059/" target="_blank" class="good">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbacncos10010032.jpg?imageView2/0/w/200/h/200" class="good-pic lazy" width="160" height="160"/>
+            <p class="good-summary">JM 珍珠三部曲面膜 3盒</p>
+            <span class="good-price">
+                <em>¥218.00</em>
+                <span>￦34,590.00</span>
+            </span>
+        </a>
+                <a href="http://www.haituncun.com/meiryz/grcaizh/1040556/" target="_blank" class="good">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbahkcos10040043_1.jpg?imageView2/0/w/200/h/200" class="good-pic lazy" width="160" height="160"/>
+            <p class="good-summary">【包邮装】MAC 魅可 子弹头唇膏/口红 3g/支（Vegas Volt-珊瑚色）</p>
+            <span class="good-price">
+                <em>¥169.00</em>
+                <span>€20.32</span>
+            </span>
+        </a>
+            </div>
+</div>
+
+       <div class="template-new">
+    <p class="caption">
+        <i class="line-left"></i>
+        <i class="line-right"></i>
+        <span>最新热卖NEW</span>
+    </p>
+    <div class="template-newlist">
+                <div class="template-newitem">
+                        <a href="http://www.haituncun.com/meiryz/mianbhf/1041138/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbahkcos10010234_1.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">RAY 银色蚕丝面膜 3盒</span>
+                    <span class="good-price"><em>¥169.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/meiryz/mianbhf/1041162/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbahkcos10010236_1.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">AHC 第六代眼霜  2支</span>
+                    <span class="good-price"><em>¥135.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/meiryz/mianbhf/1041132/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/1/_/1_44_7.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">【包邮装】ANESSA 安耐晒 资生堂 金瓶超强防水防晒喷雾（SPF50+） 60ml</span>
+                    <span class="good-price"><em>¥189.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/meiryz/mianbhf/1041123/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbajpcos10010170x2_1.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">【2件包邮装】Banana Boat 防晒喷雾</span>
+                    <span class="good-price"><em>¥198.00</em></span>
+                </div>
+            </a>
+                    </div>
+                <div class="template-newitem">
+                        <a href="http://www.haituncun.com/meiryz/mianbhf/1041058/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbacncos10010031.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">Sukin 排毒粘土面膜 2盒</span>
+                    <span class="good-price"><em>¥139.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/meiryz/mianbhf/1041063/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbacncos10010026_1.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">Sukin 新年护肤套盒</span>
+                    <span class="good-price"><em>¥145.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/meiryz/mianbhf/1041136/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbahkcos10010233_1.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">【3件包邮装】RAY蚕丝面膜 金色淡斑抗皱敏感肌肤补水 3*10片/盒</span>
+                    <span class="good-price"><em>¥218.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/meiryz/mianbhf/1041140/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbacncos10010035.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">雅漾活肤泉水喷雾 2瓶</span>
+                    <span class="good-price"><em>¥195.00</em></span>
+                </div>
+            </a>
+                    </div>
+                <div class="template-newitem">
+                        <a href="http://www.haituncun.com/meiryz/mianbhf/1041154/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbacncos10010047.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">理肤泉清痘净肤K+乳 30ml</span>
+                    <span class="good-price"><em>¥119.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/meiryz/grcaizh/1040557/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbahkcos10040044.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">【包邮装】MAC 魅可 子弹头唇膏/口红 3g/支（Lady Bug-元气番茄红）</span>
+                    <span class="good-price"><em>¥169.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/meiryz/grcaizh/1040551/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbahkcos10040038.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">【包邮装】MAC 魅可 棒棒糖唇釉染唇液 8.5ml（Truly Everlasting-亮丽珊瑚粉）</span>
+                    <span class="good-price"><em>¥215.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/meiryz/mianbhf/1041163/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/m/l/mlz2011x2.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">JM 防晒喷雾 2瓶</span>
+                    <span class="good-price"><em>¥129.00</em></span>
+                </div>
+            </a>
+                    </div>
+            </div>
+</div>
+
+        </div>
+</div>
+<!--个人护理-->
+    <div class="classify care" id="care">
+    <h2 class="caption">
+        <a class="left" href="http://www.haituncun.com/yrybh/" target="_blank"></a>
+        <a class="right" href="http://www.haituncun.com/yrybh/" target="_blank">查看更多<i class="icon icon-doublearr"></i></a>
+    </h2>
+    <div class="template clearfix">
+        <div class="template-links">
+            <a href="http://www.haituncun.com/catalogsearch/result/?q=3+Chenes#page-1" target="_blank" class="template-info">
+               <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Pinlei/F10/gh_20171010.jpg"  width="300" height="480" class="lazy"/>
+            </a>
+            <div class="mold">
+               <p class="mold-title">
+                   <i class="line-left"></i>
+                   <i class="line-right"></i>
+                   <span>热门HOT</span>
+               </p>
+                <ul class="hot-list">
+                    <li class="hot-item"><a href="http://www.haituncun.com/yrybh/yxifahuf/" target="_blank">洗发护发</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/yrybh/ymuyuyp/" target="_blank">沐浴用品</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/yrybh/ykouqhl/yyagaof/" target="_blank">牙膏</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/yrybh/ynvxyp/" target="_blank">女性用品</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/yrybh/yqingjie/yxishouy/" target="_blank" class="highlight">洗手液</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/rybh/xifahuf/1025048/" target="_blank">生发液</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/yrybh/ynvxyp/ywsjin/" target="_blank">卫生巾</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/yrybh/yxifahuf/yjingy/" target="_blank">精油/护发膏</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/yrybh/ynvxyp/ytuomao/" target="_blank">脱毛</a></li>
+                </ul>
+            </div>
+        </div>
+       
+<div class="template-goods">
+    <div class="goods-up">
+                <a href="http://www.haituncun.com/rybh/muyuyp/1039943/" class="good first" target="_blank">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbajpcos10010136x2.jpg?imageView2/0/w/200/h/200" width="200" height="200" class="good-pic lazy"/>
+            <div class="good-txt">
+                <span class="good-summary">Tokyo Love soap 私处美白香皂</span>
+                <p class="good-info">
+                    全身美白，滋润。豆乳发酵液的配合，有效抑制皮肤天敌活性酵素生成，控制毛发生长。而且延缓皮肤衰老增强皮肤弹性，抑制淡化黑色素，感觉前所未有的爽滑和滋养。解决皮肤发黑等问题并且去除异味！由于没有添加剂，任何部位可放心每天轻松使用。只要持续使用，脸部全身包含私处完全美白、抑毛可能。帮助身体气味的镇静，发汗控制，乳头，私密处的美白。针对女性微妙部份，例如：脚掌，乳头，乳晕，腋下，V线，阴部等。                </p>
+                <span class="good-price">
+                    <em>¥125.00</em>
+                    <span>JP¥1,960.00</span>
+                </span>
+            </div>
+        </a>
+                <a href="http://www.haituncun.com/meiryz/eaaesc/1040891/" target="_blank" class="good">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/b/p/bpgbpcsb0010002x5.jpg?imageView2/0/w/200/h/200" class="good-pic lazy" width="160" height="160"/>
+            <p class="good-summary">【5件包邮装】Waitrose 经典系列 小苍兰与梨子味护手霜 5*75ml/支</p>
+            <span class="good-price">
+                <em>¥105.00</em>
+                <span>£11.41</span>
+            </span>
+        </a>
+    </div>
+    <div class="goods-down clearfix">
+                <a href="http://www.haituncun.com/rybh/xifahuf/1040142/" target="_blank" class="good">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/r/e/reaaucos10030002x2_4_1.jpg?imageView2/0/w/200/h/200" class="good-pic lazy" width="160" height="160"/>
+            <p class="good-summary">【包邮装】丽丝雅 黑发还原乳</p>
+            <span class="good-price">
+                <em>¥198.00</em>
+                <span>AU$37.13</span>
+            </span>
+        </a>
+                <a href="http://www.haituncun.com/meiryz/mianbhf/1042034-42034/" target="_blank" class="good">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbacncos10030023.jpg?imageView2/0/w/200/h/200" class="good-pic lazy" width="160" height="160"/>
+            <p class="good-summary">【2件包邮装】ReneFurterer 馥绿德雅 防脱洗发水 250ml</p>
+            <span class="good-price">
+                <em>¥188.00</em>
+                <span>€22.60</span>
+            </span>
+        </a>
+                <a href="http://www.haituncun.com/meiryz/muyumt/1041806/" target="_blank" class="good">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/1/-/1-_1__1_1.jpg?imageView2/0/w/200/h/200" class="good-pic lazy" width="160" height="160"/>
+            <p class="good-summary">【2件包邮装】BOTANIST 纯天然植物无硅洗护套装 清爽型 2*490ml</p>
+            <span class="good-price">
+                <em>¥149.00</em>
+                <span>JP¥2,340.00</span>
+            </span>
+        </a>
+            </div>
+</div>
+
+       <div class="template-new">
+    <p class="caption">
+        <i class="line-left"></i>
+        <i class="line-right"></i>
+        <span>最新热卖NEW</span>
+    </p>
+    <div class="template-newlist">
+                <div class="template-newitem">
+                        <a href="http://www.haituncun.com/rybh/xifahuf/1040971/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbacncos10030018.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">【包邮】黑吕洗发护发套装</span>
+                    <span class="good-price"><em>¥129.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/rybh/muyuyp/1041031/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbagbcos1b010028.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">Hawkins & Brimble 男士洗护4件套装</span>
+                    <span class="good-price"><em>¥309.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/meiryz/eaaesc/1040342/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbahkcos10030003.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">【2件包邮装】Shiseido 资生堂 fino 发膜渗透护发素头发护理倒膜 2*230g/盒</span>
+                    <span class="good-price"><em>¥149.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/meiryz/eaaesc/1040719/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/7/_/7_1_60.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">Delon 身体黄油滋润霜 2盒</span>
+                    <span class="good-price"><em>¥158.00</em></span>
+                </div>
+            </a>
+                    </div>
+                <div class="template-newitem">
+                        <a href="http://www.haituncun.com/rybh/kouqhl/1040856/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbacncos10070001_3.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">Marvis 甘草薄荷牙膏 3支</span>
+                    <span class="good-price"><em>¥109.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/rybh/muyuyp/1040889/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbagbcos10070010x3_2.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">【3件包邮装】Waitrose 经典系列 小苍兰与梨子味沐浴露 3*250ml/瓶</span>
+                    <span class="good-price"><em>¥79.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/rybh/xifahuf/1040144/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbagbcos1b010006x2_1.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">【包邮装】美体小铺 洗发露 2件</span>
+                    <span class="good-price"><em>¥219.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/meiryz/eaaesc/1040737/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbakrcos10020003x2.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">It's skin 婚纱嫩白身体乳 2支</span>
+                    <span class="good-price"><em>¥89.00</em></span>
+                </div>
+            </a>
+                    </div>
+                <div class="template-newitem">
+                        <a href="http://www.haituncun.com/rybh/xifahuf/1040919/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbahkcos10030001x2_2.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">Yanagiya 药用生发水 2瓶</span>
+                    <span class="good-price"><em>¥135.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/rybh/xifahuf/1040970/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbacncos10030017.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">【包邮】红吕洗发护发套装</span>
+                    <span class="good-price"><em>¥95.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/rybh/xifahuf/1041055/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbacncos10040021.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">【包邮】Amore 护发精油 2瓶</span>
+                    <span class="good-price"><em>¥89.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/rybh/shtihl/1041176/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/i/file_67_34.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">Vape 驱蚊喷雾 3瓶</span>
+                    <span class="good-price"><em>¥125.00</em></span>
+                </div>
+            </a>
+                    </div>
+            </div>
+</div>
+
+        </div>
+</div>
+<!--家居厨卫-->
+    <div class="classify hk" id="hk">
+    <h2 class="caption">
+        <a class="left" href="http://www.haituncun.com/yjiajucw/" target="_blank"></a>
+        <a class="right" href="http://www.haituncun.com/yjiajucw/" target="_blank">查看更多<i class="icon icon-doublearr"></i></a>
+    </h2>
+    <div class="template clearfix">
+        <div class="template-links">
+            <a href="http://www.haituncun.com/catalogsearch/result/?q=3+Chenes#page-1" target="_blank" class="template-info">
+               <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Pinlei/F10/jj_20171010.jpg"  width="300" height="480" class="lazy"/>
+            </a>
+            <div class="mold">
+               <p class="mold-title">
+                   <i class="line-left"></i>
+                   <i class="line-right"></i>
+                   <span>热门HOT</span>
+               </p>
+                <ul class="hot-list">
+                    <li class="hot-item"><a href="http://www.haituncun.com/yjiajucw/ychufang/ylshxin/" target="_blank">滤水壶/滤芯</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/yjiajucw/ywoshiyp/yshuzi/" target="_blank">精品梳</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/yjiajucw/ywoshiyp/yxxlazhu/" target="_blank">香薰蜡烛</a></li>
+               <!-- <li class="hot-item"><a href="http://www.haituncun.com/yjiajucw/ychufang/yguoju/" target="_blank">烹饪锅具</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/yjiajucw/ychufang/ydaojcb/" target="_blank" class="highlight">刀剪菜板</a></li>-->
+                    <li class="hot-item"><a href="http://www.haituncun.com/yjiajucw/ychufang/yshuijiuj/" target="_blank" class="highlight">水壶茶具</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/yjiajucw/ychufang/jjqjyp/" target="_blank">清洁用品</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/yjiajucw/kqjh/" target="_blank">空气净化</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/yjiajucw/ychufang/yqitacj/" target="_blank">其他厨具</a></li>
+                </ul>
+            </div>
+        </div>
+       
+<div class="template-goods">
+    <div class="goods-up">
+                <a href="http://www.haituncun.com/jiajucw/chufang/1036407/" class="good first" target="_blank">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbanlhus60030001_2.jpg?imageView2/0/w/200/h/200" width="200" height="200" class="good-pic lazy"/>
+            <div class="good-txt">
+                <span class="good-summary">【包邮装】碧然德 滤水壶 2.4L（蓝色）</span>
+                <p class="good-info">
+                    碧然德滤水壶主要用于使饮用水更清洁，口味更纯正，可用于厨房，可饮用水，烧菜，烧汤，洗涤，也可用于热饮机，咖啡机，关爱家人，从水开始，让我们的生活更健康。<br>温馨提示：由于EMS服务调整，即日起，新疆部分地区的物流时效将受影响，不能保证物流时效，晚到赔付也会有相应的调整。                </p>
+                <span class="good-price">
+                    <em>¥239.00</em>
+                    <span>€28.73</span>
+                </span>
+            </div>
+        </a>
+                <a href="http://www.haituncun.com/jiajucw/qt/1040672/" target="_blank" class="good">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/2/7/27700084679914917.jpg?imageView2/0/w/200/h/200" class="good-pic lazy" width="160" height="160"/>
+            <p class="good-summary">THERMOS 保温杯 400ml /JNI-401</p>
+            <span class="good-price">
+                <em>¥215.00</em>
+                <span>JP¥3,380.00</span>
+            </span>
+        </a>
+    </div>
+    <div class="goods-down clearfix">
+                <a href="http://www.haituncun.com/jiajucw/chufang/1036927/" target="_blank" class="good">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbanlhus60010001_1.jpg?imageView2/0/w/200/h/200" class="good-pic lazy" width="160" height="160"/>
+            <p class="good-summary">【包邮装】Snurk 鲍勃系列双人被罩枕套 200*230cm</p>
+            <span class="good-price">
+                <em>¥509.00</em>
+                <span>€61.18</span>
+            </span>
+        </a>
+                <a href="http://www.haituncun.com/jiajucw/chufang/1041161/" target="_blank" class="good">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/b/r/britamaxtra_9_.jpg?imageView2/0/w/200/h/200" class="good-pic lazy" width="160" height="160"/>
+            <p class="good-summary">碧然德滤水壶滤芯 9个</p>
+            <span class="good-price">
+                <em>¥379.00</em>
+                <span>€45.56</span>
+            </span>
+        </a>
+                <a href="http://www.haituncun.com/jiajucw/chufang/1038919/" target="_blank" class="good">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbadehus60020045.jpg?imageView2/0/w/200/h/200" class="good-pic lazy" width="160" height="160"/>
+            <p class="good-summary">Zwilling Base 不锈钢锅</p>
+            <span class="good-price">
+                <em>¥1450.00</em>
+                <span>€174.30</span>
+            </span>
+        </a>
+            </div>
+</div>
+
+       <div class="template-new">
+    <p class="caption">
+        <i class="line-left"></i>
+        <i class="line-right"></i>
+        <span>最新热卖NEW</span>
+    </p>
+    <div class="template-newlist">
+                <div class="template-newitem">
+                        <a href="http://www.haituncun.com/jiajucw/chufang/1038922/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbadehus60020048_1.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">Fissler 菲仕乐 平底不粘锅 28cm</span>
+                    <span class="good-price"><em>¥398.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/jiajucw/chufang/1038921/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbanlhus60030019_1_1_1.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">WMF 福腾宝 榨汁机</span>
+                    <span class="good-price"><em>¥350.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/jiajucw/chufang/1036985/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbanlhus60030002_1.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">【包邮装】Emsa 玻璃内胆家用保温壶 1L</span>
+                    <span class="good-price"><em>¥129.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/jiajucw/qt/1040670/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/2/7/27699733307737176.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">THERMOS 保温杯 400ml/JNI-401</span>
+                    <span class="good-price"><em>¥215.00</em></span>
+                </div>
+            </a>
+                    </div>
+                <div class="template-newitem">
+                        <a href="http://www.haituncun.com/jiajucw/chufang/1038925/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbadehus60030030_7.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">Zwilling 中式刀具5件套装</span>
+                    <span class="good-price"><em>¥905.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/jiajucw/chufang/1038923/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbadehus60020049.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">Zwilling 红点菜刀+磨刀器</span>
+                    <span class="good-price"><em>¥365.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/jiajucw/chufang/1036941/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbanloth90030001x3.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">【包邮装】Frosch 柠檬浓缩洗洁精 3件</span>
+                    <span class="good-price"><em>¥99.84</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/jiajucw/chufang/1036944/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbanloth90030004x3.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">【包邮装】Frosch 婴儿衣物洗衣液 3件</span>
+                    <span class="good-price"><em>¥125.00</em></span>
+                </div>
+            </a>
+                    </div>
+                <div class="template-newitem">
+                        <a href="http://www.haituncun.com/jiajucw/chufang/1036942/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbanloth90030002x3_1.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">【包邮装】Frosch 芦荟洗洁精 3件</span>
+                    <span class="good-price"><em>¥98.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/jiajucw/yushiyp/1041935/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/1/_/1_47_41.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">【5件包邮装】KOBAYASHI 小林制药 1滴消臭元 马桶用芳香剂 甜蜜玫瑰香 5*20ml</span>
+                    <span class="good-price"><em>¥135.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/jiajucw/chufang/1040778/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/i/file_68_1.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">Frosch 多功能清洁剂 3瓶</span>
+                    <span class="good-price"><em>¥139.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/jiajucw/yushiyp/1040651/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbahkcos10030005_1_.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">【包邮装】Dyson 戴森 Supersonic 电吹风机 HD01</span>
+                    <span class="good-price"><em>¥2990.00</em></span>
+                </div>
+            </a>
+                    </div>
+            </div>
+</div>
+
+        </div>
+</div>
+<!--食品精选-->
+    <div class="classify food" id="food">
+    <h2 class="caption">
+        <a class="left" href="http://www.haituncun.com/yshipin/" target="_blank"></a>
+        <a class="right" href="http://www.haituncun.com/yshipin/" target="_blank">查看更多<i class="icon icon-doublearr"></i></a>
+    </h2>
+    <div class="template clearfix">
+        <div class="template-links">
+            <a href="http://www.haituncun.com/catalogsearch/result/?q=Waitrose+%E9%85%B1#page-1" target="_blank" class="template-info">
+               <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Pinlei/F10/sp_20171010.jpg"  width="300" height="480" class="lazy"/>
+            </a>
+            <div class="mold">
+               <p class="mold-title">
+                   <i class="line-left"></i>
+                   <i class="line-right"></i>
+                   <span>热门HOT</span>
+               </p>
+                <ul class="hot-list">
+                    <li class="hot-item"><a href="http://www.haituncun.com/yshipin/ylingshi/yqkl/" target="_blank">巧克力</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/yshipin/ylingshi/ybingan/" target="_blank">威化饼干</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/yshipin/ycha/bjgnc/" target="_blank">瑜伽茶</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/yshipin/yzaocan/ymaipian/" target="_blank">麦片</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/yshipin/ykafei/ysurong/" target="_blank" class="highlight">香浓咖啡</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/shipin/sxshipin/1022757/" target="_blank">黑糖</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/yshipin/ydaican/ynaixi/" target="_blank">代餐奶昔</a></li>
+                </ul>
+            </div>
+        </div>
+       
+<div class="template-goods">
+    <div class="goods-up">
+                <a href="http://www.haituncun.com/shipin/fengmi/1040898/" class="good first" target="_blank">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/1/_/1_41_59.jpg?imageView2/0/w/200/h/200" width="200" height="200" class="good-pic lazy"/>
+            <div class="good-txt">
+                <span class="good-summary">Waitrose 营养蜂蜜 4瓶</span>
+                <p class="good-info">
+                    英国本土高级超市出品的顶级结晶蜂蜜，结晶十分透亮和干净，超级适合涂抹面包，蜂蜜中含有与人体血清浓度相似的各种无机盐，如铁、钙、铜、锰、钾、磷等，还有多种维生素和有机酸，因此蜂蜜被称为“血清之王”。
+ Waitrose 纯清澈蜂蜜，精选优质好蜂蜜，质地十分清澈和透亮，天然健康，具有美容养颜、润肠通便以及改善睡眠的功效。蜂蜜中含有与人体血清浓度相似的各种无机盐，如铁、钙、铜、锰、钾、磷等，还有多种维生素和有机酸，因此蜂蜜被称为“血清之王”。                </p>
+                <span class="good-price">
+                    <em>¥165.00</em>
+                    <span>£17.91</span>
+                </span>
+            </div>
+        </a>
+                <a href="http://www.haituncun.com/shipin/daican/1040884/" target="_blank" class="good">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbagbfod40030013x2_2.jpg?imageView2/0/w/200/h/200" class="good-pic lazy" width="160" height="160"/>
+            <p class="good-summary">Waitrose 坚果类什锦早餐麦片 2袋</p>
+            <span class="good-price">
+                <em>¥179.00</em>
+                <span>£19.44</span>
+            </span>
+        </a>
+    </div>
+    <div class="goods-down clearfix">
+                <a href="http://www.haituncun.com/yybaoj/jichuyy/1036550/" target="_blank" class="good">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbaauspl30020032x2.jpg?imageView2/0/w/200/h/200" class="good-pic lazy" width="160" height="160"/>
+            <p class="good-summary">美可卓 蓝莓味咀嚼奶片</p>
+            <span class="good-price">
+                <em>¥159.00</em>
+                <span>AU$28.38</span>
+            </span>
+        </a>
+                <a href="http://www.haituncun.com/yybaoj/jichuyy/1041066/" target="_blank" class="good">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/1/_/1_41_103.jpg?imageView2/0/w/200/h/200" class="good-pic lazy" width="160" height="160"/>
+            <p class="good-summary">Calbee 卡乐比 富果乐水果麦片 1袋</p>
+            <span class="good-price">
+                <em>¥69.00</em>
+                <span>JP¥1,080.00</span>
+            </span>
+        </a>
+                <a href="http://www.haituncun.com/shipin/fengmi/1040901/" target="_blank" class="good">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/2/_/2_28_65.jpg?imageView2/0/w/200/h/200" class="good-pic lazy" width="160" height="160"/>
+            <p class="good-summary">【包邮装】Waitrose 营养蜂蜜系列 纯结晶蜂蜜-玻璃罐装 454g/瓶+纯清澈蜂蜜-挤压罐装 454g/瓶</p>
+            <span class="good-price">
+                <em>¥118.00</em>
+                <span>£12.81</span>
+            </span>
+        </a>
+            </div>
+</div>
+
+       <div class="template-new">
+    <p class="caption">
+        <i class="line-left"></i>
+        <i class="line-right"></i>
+        <span>最新热卖NEW</span>
+    </p>
+    <div class="template-newlist">
+                <div class="template-newitem">
+                        <a href="http://www.haituncun.com/shipin/daican/1040903/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/1/_/1_41_60.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">Waitrose 麦片+蜂蜜套装</span>
+                    <span class="good-price"><em>¥188.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/shipin/daican/1040900/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbagbfod40040014.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">Waitrose 蔓越莓早餐麦片 2袋</span>
+                    <span class="good-price"><em>¥149.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/shipin/spjxyl/1040896/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbagbfod40020003x2_2.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">【2件包邮装】Waitrose 皇家草莓果酱 2*340g/瓶</span>
+                    <span class="good-price"><em>¥125.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/shipin/lingshi/1040892/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbagbfod40020005x2_1_1.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">【2件包邮装】Waitrose 少糖橘子果酱 2*340g/瓶</span>
+                    <span class="good-price"><em>¥89.00</em></span>
+                </div>
+            </a>
+                    </div>
+                <div class="template-newitem">
+                        <a href="http://www.haituncun.com/yybaoj/jichuyy/1040821/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/1/_/1_41_37.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">Zirkulin 无糖蜂胶润喉糖 2盒</span>
+                    <span class="good-price"><em>¥89.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/shipin/kafei/1040885/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbagbfod40050001x2_2.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">【2件包邮装】Waitrose 烘烤研磨意大利式浓缩咖啡 2*250g/瓶</span>
+                    <span class="good-price"><em>¥159.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/shipin/spjxyl/1039103/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/f/b/fbagbfod40020013_3.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">Waitrose 普罗旺斯桃红酒</span>
+                    <span class="good-price"><em>¥218.00</em></span>
+                </div>
+            </a>
+                        <a href="http://www.haituncun.com/shipin/lingshi/1040915/" target="_blank" class="good clearfix">
+                <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/catalog/product/h/s/hsl002x3.jpg?imageView2/0/w/200/h/200" width="80" height="80" class="good-pic lazy"/>
+                <div class="good-txt">
+                    <span class="good-summary">Healtheries 儿童牛奶片 3瓶</span>
+                    <span class="good-price"><em>¥135.00</em></span>
+                </div>
+            </a>
+                    </div>
+            </div>
+</div>
+
+        </div>
+</div>
+<!--童装玩具
+    <div class="classify toy" id="toy">
+    <h2 class="caption">
+        <a class="left" href="http://www.haituncun.com/ycguojia/ycde/jakoo/haba/" target="_blank"></a>
+        <a class="right" href="http://www.haituncun.com/ycguojia/ycde/jakoo/haba/" target="_blank">查看更多<i class="icon icon-doublearr"></i></a>
+    </h2>
+    <div class="template clearfix">
+        <div class="template-links">
+            <a href="http://www.haituncun.com/ymuyin/yertwj/f-brand3809.html" target="_blank" class="template-info">
+               <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="https://assets.haituncun.com/media/wysiwyg/New_HomePage/Pinlei/F10/tw_20170314.jpg"  width="300" height="480" class="lazy"/>
+            </a>
+            <div class="mold">
+               <p class="mold-title">
+                   <i class="line-left"></i>
+                   <i class="line-right"></i>
+                   <span>热门HOT</span>
+               </p>
+                <ul class="hot-list">
+                    <li class="hot-item"><a href="http://www.haituncun.com/ymuyin/yertwj/ymrwj/f-brand3671.html" target="_blank">安抚玩具</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/ycguojia/ycde/jakoo/jakowj/" target="_blank">积木</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/ycguojia/ycde/jakoo/haba/" target="_blank">HABA</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/ymuyin/yertwj/wanjujako/f-brand843.html" target="_blank">LEGO</a></li>
+                    <li class="hot-item"><a href="http://www.haituncun.com/ymuyin/yertwj/ymrwj/" target="_blank" class="highlight">毛绒玩具</a></li>
+                </ul>
+            </div>
+        </div>
+       
+<div class="template-goods">
+    <div class="goods-up">
+                <a href="http://www.haituncun.com/" class="good first" target="_blank">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="" width="200" height="200" class="good-pic lazy"/>
+            <div class="good-txt">
+                <span class="good-summary"></span>
+                <p class="good-info">
+                                    </p>
+                <span class="good-price">
+                    <em>¥0.00</em>
+                    <span></span>
+                </span>
+            </div>
+        </a>
+                <a href="http://www.haituncun.com/" target="_blank" class="good">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="" class="good-pic lazy" width="160" height="160"/>
+            <p class="good-summary"></p>
+            <span class="good-price">
+                <em>¥0.00</em>
+                <span></span>
+            </span>
+        </a>
+    </div>
+    <div class="goods-down clearfix">
+                <a href="http://www.haituncun.com/" target="_blank" class="good">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="" class="good-pic lazy" width="160" height="160"/>
+            <p class="good-summary"></p>
+            <span class="good-price">
+                <em>¥0.00</em>
+                <span></span>
+            </span>
+        </a>
+                <a href="http://www.haituncun.com/" target="_blank" class="good">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="" class="good-pic lazy" width="160" height="160"/>
+            <p class="good-summary"></p>
+            <span class="good-price">
+                <em>¥0.00</em>
+                <span></span>
+            </span>
+        </a>
+                <a href="http://www.haituncun.com/" target="_blank" class="good">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="" class="good-pic lazy" width="160" height="160"/>
+            <p class="good-summary"></p>
+            <span class="good-price">
+                <em>¥0.00</em>
+                <span></span>
+            </span>
+        </a>
+            </div>
+</div>
+
+       <div class="template-new">
+    <p class="caption">
+        <i class="line-left"></i>
+        <i class="line-right"></i>
+        <span>最新热卖NEW</span>
+    </p>
+    <div class="template-newlist">
+            </div>
+</div>
+
+        </div>
+</div>
+-->
+<!--热门品牌，晒单区-->
+<div class="layout clearfix">
+                    <div class="brand">
+                        <h2 class="caption">
+                            <a class="left" href="http://www.haituncun.com/promotion/brand/" target="_blank"></a>
+                        </h2>
+                        <div class="left">
+                            <a href="http://www.haituncun.com/promotion/brand/" target="_blank"><img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/image_holder.png" data-original="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/newindex/bill.jpg" width="240" height="290" class="lazy"></a>
+                        </div>
+                        <div class="brand-list clearfix"></div>
+                    </div>
+                    <div class="bill">
+                        <div class="bill-top">
+                            <p class="bill-title">晒单区</p>
+                        </div>
+                        <div class="bill-pagination">
+                            <span class="btn-prev"></span>
+                            <span class="btn-next"></span>
+                            <em class="bill-cur"></em>/<span class="bill-sum"></span>
+                        </div>
+                        <div class="bill-list"></div>
+                    </div>
+                </div>
+</div>
+<!-- key message -->
+<div class="keymsg">
+    <div class="grid-all">
+        <a class="left zp" href="http://www.haituncun.com/service-commitment/" target="_blank">正品保证</a>
+    </div>
+</div> 
+<div class="sidebar">
+    <div class="locate-list">
+        <a href="#mall" class="locate-item mall">
+            <i class="icon icon-mall"></i>
+            <p class="item-name">全球<br/>精馆</p>
+        </a>
+        <a href="#seller" class="locate-item seller">
+            <i class="icon icon-seller"></i>
+            <p class="item-name">全球<br/>商家</p>
+        </a>
+        <a href="#mb" class="locate-item mb">
+            <i class="icon icon-mb"></i>
+            <p class="item-name">母婴<br/>用品</p>
+        </a>
+        
+        <a href="#hn" class="locate-item hn">
+            <i class="icon icon-hn"></i>
+            <p class="item-name">营养<br/>保健</p>
+        </a>
+        <a href="#beauty" class="locate-item beauty">
+            <i class="icon icon-beauty"></i>
+            <p class="item-name">美容<br/>药妆</p>
+        </a>
+        <a href="#care" class="locate-item care">
+            <i class="icon icon-care"></i>
+            <p class="item-name">个人<br/>护理</p>
+        </a>
+        <a href="#hk" class="locate-item hk">
+            <i class="icon icon-hk"></i>
+            <p class="item-name">家居<br/>厨卫</p>
+        </a>
+        <a href="#food" class="locate-item food">
+            <i class="icon icon-food"></i>
+            <p class="item-name">食品<br/>精选</p>
+        </a>
+        <!--<a href="#toy" class="locate-item toy">
+            <i class="icon icon-toy"></i>
+            <p class="item-name">童装<br/>玩具</p>
+        </a>-->
+    </div>
+    <a href="javascript:void(0);" class="app-wrap">
+        <i class="icon icon-appcode"></i>
+        <div class="side-appcode"></div>
+    </a>
+    <a href="javascript:void(0);" class="backtop">
+        <i class="icon icon-backtop"></i>
+    </a>
+</div>
+<div class="topsearch-wrap">
+    <div class="topsearch">
+        <a href="" class="left">
+            <img src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/newindex/htc-txt.png" width="224" height="30" class="htc-txt"/>
+        </a>
+        <div class="right">
+            <form id="top-search_mini_form" class="auto-search" action="http://www.haituncun.com/catalogsearch/result/" method="get">
+                <div class="left head-search">
+                    <input id="top-search" type="text" name="q" value="" class="text-input" autocomplete="off" disableautocomplete="">
+                    <input type="submit" title="搜索" class="btn-submit" value="搜索">
+                    <div id="top-search_autocomplete" class="search-autocomplete"></div>
+                    <script type="text/javascript">
+                    //<![CDATA[
+                    <!--        	var searchForm = new Varien.searchForm('search_mini_form','search','--><!--');-->
+                    <!--        	searchForm.initAutocomplete('--><!--','search_autocomplete'); -->
+                    //]]>
+                    var _searchBox = [{"text": "搜“Whoo”试试   体验顶级奢华护肤","real": "Whoo"},{"text": "搜“Swisse”试试  美容保健做你的360安全卫士","real": "Swisse"},{"text": "搜“面膜”试试，新品上线，快来拔草","real": "面膜"}],
+                    _index = Math.abs(Math.ceil(Math.random()*_searchBox.length-1)),
+                    searchKey = _searchBox[_index] || '';
+                    </script>
+                </div>
+            </form>
+            <div class="right user-entry noLogin">
+    <ul>
+                                <li class="item-cart">
+            <a href="http://www.haituncun.com/cart/index" onclick="window.location.href=this.href+'?_='+jQuery.now();return false;">购物车<i class="icon icon-cart"></i><b
+                    id="cartCountFloat"></b></a>
+        </li>
+    </ul>
+</div>
+
+        </div>
+    </div>
+</div> 
+<div style="position: fixed; bottom: 0; left: 0; z-index: 99; width: 100%; height: 92px; background:url(http://assets.haituncun.com/skin/frontend/PlumTree/default/images/v5/index-foot-app-2.png) center bottom no-repeat; -webkit-transform: translateZ(0); transform: translateZ(0);">
+<a href="http://www.haituncun.com/promotion/app/" target="_blank" style="display:block; width: 100%; height: 100%;"></a>
+<a id="app-notice" href="javascript:void(0)" title="关闭" style="position: absolute; top: 0; left: 50%; z-index: 10; width: 30px; height: 30px; margin-left: 394px;"></a>
+</div>
+<script type="text/javascript">
+jQuery(function () {
+    jQuery('#app-notice').click(function () {
+        jQuery(this).parent().remove();
+    });
+});
+</script></div>                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+    <div class="grid-all clearfix">
+         <div class="new-area">
+            <div class="new-referwrap">
+                <a href="http://www.haituncun.com/" target="_blank" class="txt-logo"></a>
+				<a href="javascript:void(0)" class="js-customer-service online-refer online-refer"></a>
+                
+            </div>
+            <p class="service-timewrap">
+                <span class="service-time">周一到周日 9:00-21:00</span>
+            </p>
+        </div>
+        <ul class="left">
+        <li class="column left">
+	<h6 class="title">关于我们</h6>
+<ul>	
+	<li><a href="/new/helper/aboutus/" target="_blank">关于海豚村</a></li>
+	<li><a href="/new/helper/authentic" target="_blank">正品承诺</a></li>
+	<li><a href="/new/helper/us" target="_blank">联系我们</a></li>
+</ul>			    
+</li>
+<li class="column left">
+	<h6 class="title">消费者指南</h6>	
+<ul>
+
+	<li><a href="/new/helper/shopping" target="_blank">购物流程</a></li>
+	<li><a href="/new/helper/coupon" target="_blank">活动规则</a></li>
+	<li><a href="/new/helper/bill" target="_blank">关税发票</a></li>
+	<li><a href="/new/helper/problem" target="_blank">常见问题</a></li>
+</ul>
+</li> 	
+<li class="column left">
+    <h6 class="title">物流配送</h6>
+<ul>
+	<li><a href="/new/helper/disptching" target="_blank">配送方式</a></li>
+	<li><a href="/helper/faq/shipping-costs" target="_blank">运费标准</a></li>
+	<!--<li><a href="/new/helper/follow" target="_blank">物流跟踪</a></li>-->
+</ul>
+</li>
+<li class="column left">
+    <h6 class="title">售后政策</h6>
+<ul>
+	<li><a href="/new/helper/policy" target="_blank">退货退款政策</a></li>
+	<li><a href="/new/helper/path" target="_blank">退货退款流程</a></li>
+</ul>
+</li>
+<li class="column left">
+	<h6 class="title">网站政策</h6>
+<ul>
+	<li><a href="/helper/faq/service-item" target="_blank">服务条款</a></li>
+	<li><a href="/new/helper/privacy" target="_blank">隐私权保护政策</a></li>
+	<li><a href="/new/helper/notification" target="_blank">消费者告知书</a></li>
+</ul>
+</li>         </ul>
+        <div class="right qrcode"></div>
+        <div class="crdc">
+            <div class="copyright">
+                <span>COPYRIGHT &copy; 2013-2018                    All Rights Reserved. <a href="http://www.miitbeian.gov.cn" rel="nofollow" target="_blank" style="text-decoration:none;color:#999;">粤ICP备 13081207号</a></span>
+            </div>
+            <div class="dib-wrap dc">
+                <a class="dib" href="" target="_blank" rel="nofollow">
+                    <img width="108" height="40" src="http://assets.haituncun.com/skin/frontend/PlumTree/default//images/new/f1.png?v=1" alt=""/>
+                </a>
+
+                <script id="ebsgovicon" src="http://szcert.ebs.org.cn/govicon.js?id=61a42e07-fc42-4d85-b7cc-f923e05633bb&width=98&height=40&type=2" type="text/javascript" charset="utf-8"></script>
+
+                <!--可信网站图片LOGO安装开始-->
+                <span id="kx_verify" class="dib"></span><script type="text/javascript">(function (){var _kxs = document.createElement('script');_kxs.id = 'kx_script';_kxs.async = true;_kxs.setAttribute('cid', 'kx_verify');_kxs.src = ('https:' == document.location.protocol ? 'https://ss.knet.cn' : 'http://rr.knet.cn')+'/static/js/icon3.js?sn=e17082944030068728jupf000000&tp=icon3';_kxs.setAttribute('size', 0);var _kx = document.getElementById('kx_verify');_kx.parentNode.insertBefore(_kxs, _kx);})();</script>
+                <!--可信网站图片LOGO安装结束-->
+
+                <a class="dib" href="http://www.zx110.org/" target="_blank" rel="nofollow">
+                    <img width="108" height="40" src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/new/f4.png?v=1" alt=""/></a>
+
+                <a class="dib" href="http://210.76.65.188/newwebsite/main.jsp?id=4403&adir=&wy=1" target="_blank" rel="nofollow">
+                    <img width="108" height="40" src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/new/f5.png?v=1" alt=""/>
+                </a>
+
+                <a class="dib" href="javascript:;" rel="nofollow">
+                    <img width="108" height="40" src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/new/f6.png?v=1" alt=""/>
+                </a>
+
+                <a class="dib" href="javascript:;" rel="nofollow">
+                    <img width="108" height="40" src="http://assets.haituncun.com/skin/frontend/PlumTree/default/images/new/f7.png?v=1" alt=""/>
+                </a>
+
+                <a class="qsecure" key="551ab2ac0fb51d02141ef8aa" logo_size="124x47" logo_type="realname" href="http://www.anquan.org" >
+                    <script src="http://static.anquan.org/static/outer/js/aq_auth.js"></script>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Start of KF5 supportbox script -->
+<script type="text/javascript">
+	document.write('<script src="\/\/assets-cdn.kf5.com\/supportbox\/main.js?' + (new Date).getDay() + '" id="kf5-provide-supportBox" kf5-domain="khfwzx.kf5.com" charset="utf-8"><\/script>');
+	$(function(){
+	   $(".js-customer-service").on("click",function(){
+            $("#kf5-support-btn").trigger("click");
+        });
+	})
+</script>
+<!-- End of KF5 supportbox script -->
+
+
+
+    <script type="text/javascript">
+    var _mvq = window._mvq || [];
+    window._mvq = _mvq;
+    _mvq.push(['$setAccount', 'm-147586-0']);
+
+    _mvq.push(['$logConversion']);
+    (function () {
+        var mvl = document.createElement('script');
+        mvl.type = 'text/javascript';
+        mvl.async = true;
+        mvl.src = ('https:' == document.location.protocol ? 'https://static-ssl.mediav.com/mvl.js' : 'http://static.mediav.com/mvl.js');
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(mvl, s);
+    })();
+
+</script>
+</div>
+
+<div class="js-container" style="display: none" >
+    <script type="text/javascript" src="http://www.haituncun.com/js/mage/cookies.js"></script>
+<script type="text/javascript" src="http://assets.haituncun.com/skin/frontend/PlumTree/default/js/plugins.js?v=2162"></script>
+<script type="text/javascript" src="http://assets.haituncun.com/skin/frontend/PlumTree/default/js/helpCenter.min.js?v=2162"></script>
+<script type="text/javascript" src="http://assets.haituncun.com/skin/frontend/PlumTree/default/js/source-cookie.js?v=2162"></script>
+<script type="text/javascript" src="http://assets.haituncun.com/skin/frontend/PlumTree/default/js/sensorsAnalytics.js?v=2162"></script>
+<script type="text/javascript" src="http://assets.haituncun.com/skin/frontend/PlumTree/default/js/newindex.js?v=2162"></script>
+
+    <script language="javascript">var live800_companyID = "426817";jid = "8759451932";live800_configID = "123637";</script><script language="javascript" src="http://assets.haituncun.com/skin/frontend/PlumTree/default/js/live800/floatButton.js?jid=8759451932&companyID=426817&configID=123637&codeType=custom&info=userId%3D%26name%3D%26memo%3D%26hashCode%3D4f26cc207135a5ab00328bde2b828d85%26timestamp%3D1527678707"></script>	<script type="text/javascript" src="http://assets.haituncun.com/skin/frontend/PlumTree/default/js/jquery.cookie.js"></script>
+	<script type="text/javascript">
+	var G_haq = G_haq || [];
+	G_haq.push(['_setAccount', 'haituncun.com']);
+	(function() {
+		var ha = document.createElement('script'); ha.type = 'text/javascript'; ha.async = true;
+		ha.src = ('https:' == document.location.protocol ? 'https://htag' : 'http://htag') + '.haituncun.com/js/htag.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ha, s);
+	})();
+	</script>
+
+</div></body>
+</html>

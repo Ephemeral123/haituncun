@@ -1,0 +1,813 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" href="css/common.css" />
+		<link rel="stylesheet" type="text/css" href="css/index.css"/>
+		<script type="text/javascript" src="js/index.js"></script>
+	</head>
+	<body>
+		<!--header-->
+		<div id="header">
+			<div class="header_top">
+				<div class="topCon">
+					<div class="topConLeft">
+						<p>您好，欢迎来到海豚村！<span><a href="#">关于青岛物流影响通知</a></span></p>
+					</div>
+					<div class="topConRight">
+						<ul>
+							<li><a href="#">登录</a></li>
+							<li><a href="#">注册</a></li>
+							<li><a href="#">手机版</a></li>
+							<li><a href="#">关注</a></li>
+							<li><a href="#">在线客服</a></li>
+							<li><a href="#">消费者告知书</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="header_center">
+				<div class="cenCon">
+					<div class="cenConLeft">
+						<a href="index.html"><img src="img/logo.png"/></a>
+					</div>
+					<div class="cenConCen">
+						<a href="#">aaa</a>
+					</div>
+					<form action="" name="" id="cenConCenter">
+						<div class="form1">
+							<input type="text" id="txt1" value="" placeholder="搜“Swisse”试试  美容保健做你的360安全卫士"/>
+							<input type="submit" id="btn1" value="111" />
+						</div>
+					</form>
+					<div class="cenConRight">
+						
+					</div>
+				</div>
+			</div>
+			<div class="header_bottom">
+				<div class="btmCon">
+					<div class="list1">
+						<h3><i class="icon icon-list"></i>全部商品分类</h3>
+						<ul class="list1-1">
+							<li class="parent muyin">
+								<div class="p-menu">
+									<h2>
+										<i class="icon icon-muyin"></i>
+										<a href="#">母婴用品</a>
+									</h2>
+									<ul class="list1-1-1">
+										<li><a href="#">配方奶粉</a></li>
+										<li><a href="#">营养辅食</a></li>
+										<li><a href="#">洗护用品</a></li>
+									</ul>
+								</div>
+								<div class="hide hideTop">
+									<div class="hideMenu">
+										<div class="menuList clearFix">
+											<dl class="menuItem">
+												<dt>奶粉辅食</dt>
+												<dd class="clearFix">
+													<a href="#">配方奶粉</a>
+													<a href="#">特殊奶粉</a>
+													<a href="#">羊奶粉</a>
+													<a href="#">米粉/菜粉</a>
+													<a href="#">果泥/果汁</a>
+													<a href="#">菜泥/肉泥</a>
+													<a href="#">面条/粥</a>
+													<a href="#">通心粉</a>
+													<a href="#">宝宝零食</a>
+												</dd>
+											</dl>
+											<dl class="menuItem">
+												<dt>喂养用品</dt>
+												<dd class="clearFix">
+													<a href="#">奶瓶奶嘴</a>
+													<a href="#">吸奶/厨奶器</a>
+													<a href="#">安抚用品</a>
+													<a href="#">水壶水杯</a>
+													<a href="#">碗盘叉勺</a>
+													<a href="#">围兜</a>
+													<a href="#">卫生消毒</a>
+													<a href="#">磨牙饼干</a>
+													<a href="#">乳垫</a>
+												</dd>
+											</dl>
+										</div>
+										<div class="menuList clearFix">
+											<dl class="menuItem">
+												<dt>洗护用品</dt>
+												<dd class="clearFix">
+													<a href="#">耳温枪</a>
+													<a href="#">宝宝洗浴</a>
+													<a href="#">宝宝护肤</a>
+													<a href="#">宝宝梳子</a>
+												</dd>
+											</dl>
+											<dl class="menuItem">
+												<dt>妈妈专区</dt>
+												<dd class="clearFix">
+													<a href="#">备孕营养</a>
+													<a href="#">孕期营养</a>
+													<a href="#">产后恢复</a>
+													<a href="#">妈妈营养</a>
+													<a href="#">孕妈美容</a>   
+												</dd>
+											</dl>
+										</div>
+										<div class="menuList clearFix">
+											<dl class="menuItem">
+												<dt>婴幼营养</dt>
+												<dd class="clearFix">
+													<a href="#">DHA/鱼油</a>
+													<a href="#">维他命/矿物质</a>
+													<a href="#">牛初乳</a>
+													<a href="#">乳糖酶</a>  												
+												</dd>
+											</dl>
+											<dl class="menuItem">
+												<dt>儿童玩具</dt>
+												<dd class="clearFix">
+													<a href="#">毛绒玩具</a>
+													<a href="#">其他</a>
+												</dd>
+											</dl>
+										</div>
+										<div class="menuList clearFix">
+											<dl class="menuItem">
+												<dt>宝宝安全</dt>
+												<dd class="clearFix">
+													<a href="#">安全监护</a>
+												</dd>
+											</dl>
+											<dl class="menuItem">
+												<dt>尿裤湿巾</dt>
+												<dd class="clearFix">
+													<a href="#">纸尿裤</a>
+													<a href="#">湿巾</a>
+												</dd>
+											</dl>
+										</div>
+									</div>
+									<div class="hideSide">
+										<a href="#" class="sideA">
+											<img src="img/muyin160513.jpg" alt="" />
+										</a>
+										<div class="sideB">
+											<h3>
+												<i class="lineL"></i>
+												<i class="lineR"></i>
+												<span>热门品牌</span>
+											</h3>
+											<div class="pinpai">
+												<a href="#" class="tradeM">
+													<img src="img/MYYP_01160513.jpg"/>
+												</a>
+												<a href="#" class="tradeM">
+													<img src="img/MYYP_02160513.jpg"/>
+												</a>
+												<a href="#" class="tradeM">
+													<img src="img/MYYP_03160513.jpg"/>
+												</a>
+												<a href="#" class="tradeM">
+													<img src="img/MYYP_04160513.jpg"/>
+												</a>
+												<a href="#" class="tradeM">
+													<img src="img/MYYP_05160513.jpg"/>
+												</a>
+												<a href="#" class="tradeM">
+													<img src="img/MYYP_06160513.jpg"/>
+												</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</li>
+							<li class="parent yingyang">
+								<div class="p-menu">
+									<h2>
+										<i  class="icon icon-yingyang"></i>
+										<a href="#">营养保健</a>
+									</h2>
+									<ul class="list1-1-1">
+										<li><a href="#">儿童营养</a></li>
+										<li><a href="#">德国双心</a></li>
+										<li><a href="#">美容养颜</a></li>
+									</ul>
+								</div>
+								<div class="hide hideTop">
+									<div class="hideMenu">
+										<div class="menuList clearFix">
+											<dl class="menuItem1">
+												<dt>营养健康</dt>
+												<dd class="clearFix">
+													<a href="#">调节免疫</a>
+													<a href="#">调节三高</a>
+													<a href="#">肠胃养护</a>
+													<a href="#">缓解疲劳</a>
+													<a href="#">美容养颜</a>
+													<a href="#">减肥塑身</a>
+													<a href="#">肝肾养护</a>
+													<a href="#">改善睡眠</a>
+													<a href="#">骨骼健康</a>
+													<a href="#">补铁补血</a>
+													<a href="#">明目益智</a>
+   													<a href="#">抗氧化/抗衰老</a>
+   													<a href="#">强身壮阳</a>
+   													<a href="#">心脑保护</a>
+   													<a href="#">男女备孕</a>
+   													<a href="#">儿童营养</a>
+   													<a href="#">孕妇营养</a>
+   													<a href="#">运动营养</a>
+   													<a href="#">外用止痛消炎</a>
+   													<a href="#">鼻腔护理</a>
+   													<a href="#">缓压安神</a>
+   													<a href="#">泌尿道健康</a>
+   													<a href="#">肌肉神经保健</a>   
+												</dd>
+											</dl>
+											<dl class="menuItem1">
+												<dt>营养成分</dt>
+												<dd class="clearFix">
+													<a href="#">维他命/矿物质</a>
+													<a href="#">蛋白质</a>
+													<a href="#">深海鱼油</a>
+													<a href="#">葡萄籽</a>
+													<a href="#">番茄红素</a>
+													<a href="#">螺旋藻</a>
+													<a href="#">叶酸</a>
+													<a href="#">辅酶Q10</a>
+													<a href="#">玛咖</a>
+													<a href="#">蜂蜜蜂胶</a>
+													<a href="#">胶原蛋白</a>
+													<a href="#">大豆异黄酮/卵磷脂</a>
+													<a href="#">膳食纤维</a>
+													<a href="#">Omega-3</a>
+													<a href="#">牛初乳</a>
+													<a href="#">鱼肝油</a>
+													<a href="#">维骨素</a>
+													<a href="#">玻尿酸</a>
+													<a href="#">蔓越莓</a>
+													<a href="#">姜黄素</a>   
+												</dd>
+											</dl>
+										</div>
+										<div class="menuList clearFix">
+											<dl class="menuItem2">
+												<dt>保健器械</dt>
+												<dd class="clearFix">
+													<a href="#">血压计</a>
+													<a href="#">血糖仪</a>
+													<a href="#">脂肪显示器</a>
+													<a href="#">体温计</a>
+													<a href="#">护理机</a>
+													<a href="#">药膏/贴片</a>
+													<a href="#">口腔护理</a>   
+												</dd>
+											</dl>
+											<dl class="menuItem2">
+												<dt>救急卫生</dt>
+												<dd class="clearFix">
+													<a href="#">创可贴/绷带</a>
+													<a href="#">蚊虫叮咬</a>
+													<a href="#">损伤修复</a>
+													<a href="#">家庭药箱</a>   
+												</dd>
+											</dl>
+										</div>
+										<div class="menuList clearFix">
+											<dl class="menuItem">
+												<dt>适用人群</dt>
+												<dd class="clearFix">
+													<a href="#">婴幼儿</a>
+													<a href="#">儿童</a>
+													<a href="#">成年男性</a>
+													<a href="#">成年女性</a>
+													<a href="#">孕妇</a>
+													<a href="#">中老年</a>
+												</dd>
+											</dl>
+										</div>
+									</div>
+									<div class="hideSide">
+										<a href="#" class="sideA">
+											<img src="img/yinyang170314.jpg" alt="" />
+										</a>
+										<div class="sideB">
+											<h3>
+												<i class="lineL"></i>
+												<i class="lineR"></i>
+												<span>热门品牌</span>
+											</h3>
+											<div class="pinpai">
+												<a href="#" class="tradeM">
+													<img src="img/YYBJ_01160513.jpg"/>
+												</a>
+												<a href="#" class="tradeM">
+													<img src="img/YYBJ_02160513.jpg"/>
+												</a>
+												<a href="#" class="tradeM">
+													<img src="img/YYBJ_03160513.jpg"/>
+												</a>
+												<a href="#" class="tradeM">
+													<img src="img/YYBJ_04160513.jpg"/>
+												</a>
+												<a href="#" class="tradeM">
+													<img src="img/YYBJ_05160513.jpg"/>
+												</a>
+												<a href="#" class="tradeM">
+													<img src="img/YYBJ_06160513.jpg"/>
+												</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</li>
+							<li class="parent meirong">
+								<div class="p-menu">
+									<h2>
+										<i class="icon icon-meirong"></i>
+										<a href="#">美容药妆</a>
+									</h2>
+									<ul class="list1-1-1">
+										<li><a href="#">卸妆洁面</a></li>
+										<li><a href="#">补水保湿</a></li>
+										<li><a href="#">个人彩妆</a></li>
+									</ul>
+								</div>
+								<div class="hide hideTop">
+									<div class="hideMenu">
+										<div class="menuList clearFix">
+											<dl class="menuItem3">
+												<dt>面部护理</dt>
+												<dd class="clearFix">
+													<a href="#">卸妆洁面</a>
+													<a href="#">去角质/磨砂</a>
+													<a href="#">爽肤水/补水喷雾</a>
+													<a href="#">精华</a>
+													<a href="#">乳液</a>
+													<a href="#">面霜</a>
+													<a href="#">眼霜</a>
+													<a href="#">润唇膏</a>
+													<a href="#">面膜</a>
+													<a href="#">抗痘消炎</a>
+													<a href="#">防晒/隔离/BB霜</a>
+													<a href="#">护肤套装/礼盒装</a>   
+												</dd>
+											</dl>
+											<dl class="menuItem3">
+												<dt>个人彩妆</dt>
+												<dd class="clearFix">
+													<a href="#">妆前乳</a>
+													<a href="#"> 粉底/粉饼</a>
+													<a href="#">散粉/蜜粉</a>
+													<a href="#">遮瑕膏/BB霜</a>
+													<a href="#">眼影</a>
+													<a href="#">眼线笔/眼线液</a>
+													<a href="#">睫毛膏</a>
+													<a href="#">唇膏/唇蜜</a>
+													<a href="#">眉笔/眉粉</a>
+													<a href="#">美妆小工具</a> 
+												</dd>
+											</dl>
+										</div>
+										<div class="menuList clearFix">
+											<dl class="menuItem">
+												<dt>身体护理</dt>
+												<dd class="clearFix">
+													<a href="#">身体乳/霜</a>
+													<a href="#">手/足护理</a>
+													<a href="#">抑汗走珠</a>
+													<a href="#">身体磨砂</a>
+													<a href="#">按摩油</a>
+												</dd>
+											</dl>
+											<dl class="menuItem">
+												<dt>男士护理</dt>
+												<dd class="clearFix">
+													<a href="#">男士洗浴</a>
+													<a href="#">男士护肤</a>
+													<a href="#">止汗除味</a>
+													<a href="#">剃须用品</a>   
+												</dd>
+											</dl>
+										</div>
+									</div>
+									<div class="hideSide">
+										<a href="#" class="sideA">
+											<img src="img/meizhuang170309.jpg" alt="" />
+										</a>
+										<div class="sideB">
+											<h3>
+												<i class="lineL"></i>
+												<i class="lineR"></i>
+												<span>热门品牌</span>
+											</h3>
+											<div class="pinpai">
+												<a href="#" class="tradeM">
+													<img src="img/MRYZ_01160513.jpg"/>
+												</a>
+												<a href="#" class="tradeM">
+													<img src="img/MRYZ_02160513.jpg"/>
+												</a>
+												<a href="#" class="tradeM">
+													<img src="img/MRYZ_03160513.jpg"/>
+												</a>
+												<a href="#" class="tradeM">
+													<img src="img/MRYZ_04160513.jpg"/>
+												</a>
+												<a href="#" class="tradeM">
+													<img src="img/MRYZ_05160513.jpg"/>
+												</a>
+												<a href="#" class="tradeM">
+													<img src="img/MRYZ_06160513.jpg"/>
+												</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</li>
+							<li class="parent gerenhl">
+								<div class="p-menu">
+									<h2>
+										<i  class="icon icon-geren"></i>
+										<a href="#">个人护理</a>
+									</h2>
+									<ul class="list1-1-1">
+										<li><a href="#">洗发护发</a></li>
+										<li><a href="#">沐浴用品</a></li>
+										<li><a href="#">牙膏</a></li>
+									</ul>
+								</div>
+								<div class="hide hideTop">
+									<div class="hideMenu">
+										<div class="menuList clearFix">
+											<dl class="menuItem">
+												<dt>沐浴用品</dt>
+												<dd class="clearFix">
+													<a href="#">沐浴露</a>
+													<a href="#">沐浴皂</a>
+													<a href="#">浴盐</a>
+												</dd>
+											</dl>
+											<dl class="menuItem">
+												<dt>洗发护发</dt>
+												<dd class="clearFix">
+													<a href="#">洗发液</a>
+													<a href="#">护发素</a>
+													<a href="#">发膜</a>
+													<a href="#">精油/护发膏</a>
+													<a href="#">造型</a>
+												</dd>
+											</dl>
+										</div>
+										<div class="menuList clearFix">
+											<dl class="menuItem">
+												<dt>口腔护理</dt>
+												<dd class="clearFix">
+													<a href="#">牙膏/牙粉</a>
+													<a href="#">牙刷/牙线</a>
+													<a href="#">刷头</a>
+													<a href="#">漱口水</a>  
+												</dd>
+											</dl>
+											<dl class="menuItem">
+												<dt>女性用品</dt>
+												<dd class="clearFix">
+													<a href="#">卫生巾</a>
+													<a href="#">卫生棉条</a>
+													<a href="#">卫生护垫</a>
+													<a href="#">私密洗液/湿巾</a>
+													<a href="#">脱毛</a>											</dd>
+											</dl>
+										</div>
+										<div class="menuList clearFix">
+											<dl class="menuItem">
+												<dt>清洁用品</dt>
+												<dd class="clearFix">
+													<a href="#">驱虫用品</a>
+													<a href="#">洗手液</a>
+												</dd>
+											</dl>
+										</div>
+									</div>
+									<div class="hideSide">
+										<a href="#" class="sideA">
+											<img src="img/gehu170314.jpg" alt="" />
+										</a>
+										<div class="sideB">
+											<h3>
+												<i class="lineL"></i>
+												<i class="lineR"></i>
+												<span>热门品牌</span>
+											</h3>
+											<div class="pinpai">
+												<a href="#" class="tradeM">
+													<img src="img/GRHL_01160513.jpg"/>
+												</a>
+												<a href="#" class="tradeM">
+													<img src="img/GRHL_02160513.jpg"/>
+												</a>
+												<a href="#" class="tradeM">
+													<img src="img/GRHL_03170314.jpg"/>
+												</a>
+												<a href="#" class="tradeM">
+													<img src="img/GRHL_04170314.jpg"/>
+												</a>
+												<a href="#" class="tradeM">
+													<img src="img/GRHL_05170314.jpg"/>
+												</a>
+												<a href="#" class="tradeM">
+													<img src="img/GRHL_06170314.jpg"/>
+												</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</li>
+							<li class="parent jiajucw">
+								<div class="p-menu">
+									<h2>
+										<i  class="icon icon-jiaju"></i>
+										<a href="#">家具厨卫</a>
+									</h2>
+									<ul class="list1-1-1">
+										<li><a href="#">精品梳</a></li>
+										<li><a href="#">滤水壶</a></li>
+										<li><a href="#">清洁用品</a></li>
+									</ul>
+								</div>
+								<div class="hide hideBottom">
+									<div class="hideMenu">
+										<div class="menuList clearFix">
+											<dl class="menuItem">
+												<dt>厨房用品</dt>
+												<dd class="clearFix">
+													<a href="#">其他厨具</a>
+													<a href="#">滤水壶/滤芯</a>
+													<a href="#">水壶茶具</a>
+													<a href="#">清洁用品</a>   
+												</dd>
+											</dl>
+											<dl class="menuItem">
+												<dt>空气净化</dt>
+												<dd class="clearFix">
+													<a href="#">空气净化器</a>
+													<a href="#">空气清新剂</a>
+												</dd>
+											</dl>
+										</div>
+										<div class="menuList clearFix">
+											<dl class="menuItem">
+												<dt>卧室用品</dt>
+												<dd class="clearFix">
+													<a href="#">精品梳</a>
+													<a href="#">香薰/蜡烛</a>
+												</dd>
+											</dl>
+										</div>
+									</div>
+									<div class="hideSide">
+										<a href="#" class="sideA">
+											<img src="img/muyin160513.jpg" alt="" />
+										</a>
+										<div class="sideB">
+											<h3>
+												<i class="lineL"></i>
+												<i class="lineR"></i>
+												<span>热门品牌</span>
+											</h3>
+											<div class="pinpai">
+												<a href="#" class="tradeM">
+													<img src="img/MYYP_01160513.jpg"/>
+												</a>
+												<a href="#" class="tradeM">
+													<img src="img/MYYP_02160513.jpg"/>
+												</a>
+												<a href="#" class="tradeM">
+													<img src="img/MYYP_03160513.jpg"/>
+												</a>
+												<a href="#" class="tradeM">
+													<img src="img/MYYP_04160513.jpg"/>
+												</a>
+												<a href="#" class="tradeM">
+													<img src="img/MYYP_05160513.jpg"/>
+												</a>
+												<a href="#" class="tradeM">
+													<img src="img/MYYP_06160513.jpg"/>
+												</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</li>
+							<li class="parent shipinjx">
+								<div class="p-menu">
+									<h2>
+										<i  class="icon icon-shipin"></i>
+										<a href="#">食品精选</a>
+									</h2>
+									<ul class="list1-1-1">
+										<li><a href="#">功能茶</a></li>
+										<li><a href="#">果泥果汁</a></li>
+										<li><a href="#">营养代餐</a></li>
+									</ul>
+								</div>
+								<div class="hide hideBottom">
+									<div class="hideMenu">
+										<div class="menuList clearFix">
+											<dl class="menuItem">
+												<dt>茶</dt>
+												<dd class="clearFix">
+													<a href="#">花茶/果茶</a>
+													<a href="#">保健功能茶</a>
+												</dd>
+											</dl>
+											<dl class="menuItem">
+												<dt>咖啡</dt>
+												<dd class="clearFix">
+													<a href="#">咖啡豆</a>
+												</dd>
+											</dl>
+										</div>
+										<div class="menuList clearFix">
+											<dl class="menuItem">
+												<dt>营养早餐</dt>
+												<dd class="clearFix">
+													<a href="#">麦片</a>
+												</dd>
+											</dl>
+											<dl class="menuItem">
+												<dt>零食</dt>
+												<dd class="clearFix">
+													<a href="#">巧克力</a>
+													<a href="#">果泥/果汁</a>
+													<a href="#">糖果</a>
+												</dd>
+											</dl>
+										</div>
+										<div class="menuList clearFix">
+											<dl class="menuItem">
+												<dt>营养代餐</dt>
+												<dd class="clearFix">
+													<a href="#">巧克力</a>
+													<a href="#">奶昔</a>
+												</dd>
+											</dl>
+											<dl class="menuItem">
+												<dt>蜂蜜</dt>
+											</dl>
+										</div>
+									</div>
+									<div class="hideSide">
+										<a href="#" class="sideA">
+											<img src="img/muyin160513.jpg" alt="" />
+										</a>
+										<div class="sideB">
+											<h3>
+												<i class="lineL"></i>
+												<i class="lineR"></i>
+												<span>热门品牌</span>
+											</h3>
+											<div class="pinpai">
+												<a href="#" class="tradeM">
+													<img src="img/MYYP_01160513.jpg"/>
+												</a>
+												<a href="#" class="tradeM">
+													<img src="img/MYYP_02160513.jpg"/>
+												</a>
+												<a href="#" class="tradeM">
+													<img src="img/MYYP_03160513.jpg"/>
+												</a>
+												<a href="#" class="tradeM">
+													<img src="img/MYYP_04160513.jpg"/>
+												</a>
+												<a href="#" class="tradeM">
+													<img src="img/MYYP_05160513.jpg"/>
+												</a>
+												<a href="#" class="tradeM">
+													<img src="img/MYYP_06160513.jpg"/>
+												</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</li>
+							<li class="parent ertongwj">
+								<div class="p-menu">
+									<h2>
+										<i  class="icon icon-ertong"></i>
+										<a href="#">儿童玩具</a>
+									</h2>
+									<ul class="list1-1-1">
+										<li><a href="#">毛绒玩具</a></li>
+									</ul>
+								</div>
+							</li>
+						</ul>
+					</div>
+					<ul class="list2">
+						<li><a href="#">首页</a></li>
+						<li><a href="#">全球精品馆</a></li>
+						<li><a href="#">全球精选</a></li>
+						<li><a href="#">全球商家</a></li>
+						<li><a href="#">欧洲</a></li>
+						<li><a href="#">澳洲</a></li>
+						<li><a href="#">亚洲</a></li>
+					</ul>
+					<div class="pay">
+						<a href="#"><img src="img/upbuy.jpg"/></a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--nav-->
+		<div id="nav">
+			<div class="nav_banner">
+				<div class="bannerMain">
+					<div class="bannerSlider" style="background-color: rgb(228, 239, 245);">
+						<div class="bannerCon">
+							<div class="">
+								<a href="#">
+									<img src="img/fbf95c457b33de32a1b67c2a4188b0e3.jpg"/>
+								</a>
+							</div>
+						</div>
+					</div>
+					<div class="bannerSlider" style="background-color: rgb(185, 174, 168);">
+						<div class="bannerCon">
+							<div class="">
+								<a href="#">
+									<img src="img/50dc822d0f7e6cc93699c8f2ba9da2d0.jpg"/>
+								</a>
+							</div>
+						</div>
+					</div>
+					<div class="bannerSlider_active" style="background-color: rgb(192, 233, 237);">
+						<div class="bannerCon">
+							<div class="bannerImg">
+								<a href="#">
+									<img src="img/4a5b6b34b586f541ed8c2ab54cdfdecc.jpg"/>
+								</a>
+							</div>
+						</div>
+					</div>
+					<ul class="navLi">
+						<li></li>
+						<li></li>
+						<li></li>
+					</ul>
+					<a href="btnLeft" class="iconBtn btnLeft">left</a>
+					<a href="btnRight" class="iconBtn btnRight">right</a>
+				</div>
+				<div class="bannerSide">
+					<div class="sideSpectical">
+						<a href="#">
+							<img src="img/R1_20160518.jpg"/>
+						</a>
+						<a href="#">
+							<img src="img/slider-active2.jpg"/>
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="nav_sales">
+				<ul class="salesMain">
+					<li>
+						<img src="" alt="" />
+						<img src=""/>
+						span
+					</li>
+					<li></li>
+					<li></li>
+					<li></li>
+					<li></li>
+				</ul>
+				<div class="salesSide">
+					<img src="img/sales160517.jpg"/>
+				</div>
+			</div>
+		</div>
+		<!--goods-->
+		<div id="goods">
+			<div class="goods_top">
+				
+			</div>
+			<div class="goods_bottom">
+				
+			</div>
+		</div>
+		<div class="shangmian"></div>
+		<div class="cebian"></div>
+		
+		<!--baozhang-->
+		<div id="promise"></div>
+		<!--footer-->
+		<div id="footer">
+			<div class="footer_con">
+				
+			</div>
+		</div>
+	</body>
+</html>
